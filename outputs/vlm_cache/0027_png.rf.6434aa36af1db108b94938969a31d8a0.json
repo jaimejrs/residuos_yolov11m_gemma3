@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Sacos de lixo e residuos acumulados na divisoria da via.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Sacos de lixo e residuos acumulados na divisoria da via.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1208.87,
+  "image_id": "0027_png.rf.6434aa36af1db108b94938969a31d8a0.jpg"
+}

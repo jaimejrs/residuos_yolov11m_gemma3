@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de sacos plásticos pretos, papelão e outros resíduos acumulados na calçada.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos plásticos pretos, papelão e outros resíduos acumulados na calçada.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1305.38,
+  "image_id": "0085_png.rf.be1e304e8f56c4b865c307319d10dfb9.jpg"
+}

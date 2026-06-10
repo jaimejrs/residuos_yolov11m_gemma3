@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Vários sacos de lixo e outros resíduos acumulados na calçada.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Vários sacos de lixo e outros resíduos acumulados na calçada.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1227.95,
+  "image_id": "0218_png.rf.0190c6991fe15a2fc3c4a86225c4c7c9.jpg"
+}

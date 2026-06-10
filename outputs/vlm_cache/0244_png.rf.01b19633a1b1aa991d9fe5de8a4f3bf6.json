@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Vários sacos de lixo e caixas de papelão descartados na calçada.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Vários sacos de lixo e caixas de papelão descartados na calçada.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1247.4,
+  "image_id": "0244_png.rf.01b19633a1b1aa991d9fe5de8a4f3bf6.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de lixo acumulado na calçada e próximo ao bueiro, incluindo sacos plásticos pretos, pneu, embalagens e vegetação.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de lixo acumulado na calçada e próximo ao bueiro, incluindo sacos plásticos pretos, pneu, embalagens e vegetação.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1522.93,
+  "image_id": "0021_png.rf.2e1a9c006b6db48a6424b57c93eb8936.jpg"
+}

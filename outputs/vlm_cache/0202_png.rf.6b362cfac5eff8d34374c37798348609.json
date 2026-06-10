@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Diversos residuos descartados na calçada e acostamento da via, incluindo embalagens plasticas, papelão e possiveis restos de alimentos.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Diversos residuos descartados na calçada e acostamento da via, incluindo embalagens plasticas, papelão e possiveis restos de alimentos.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1429.22,
+  "image_id": "0202_png.rf.6b362cfac5eff8d34374c37798348609.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "tem_lixo": false,
+  "descricao_breve": "Nenhum lixo ou resíduo visível na imagem.",
+  "confianca": 1.0,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": false, \"descricao_breve\": \"Nenhum lixo ou resíduo visível na imagem.\", \"confianca\": 1.0}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1131.33,
+  "image_id": "Captura-de-tela-de-2026-06-06-08-45-02_png.rf.a6e914feaa1675b1a74e7623e1a2a465.jpg"
+}

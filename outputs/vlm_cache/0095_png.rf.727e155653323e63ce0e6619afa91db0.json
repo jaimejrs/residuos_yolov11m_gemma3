@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de sacos de lixo pretos e outros resíduos espalhados na calçada.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos de lixo pretos e outros resíduos espalhados na calçada.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1304.11,
+  "image_id": "0095_png.rf.727e155653323e63ce0e6619afa91db0.jpg"
+}

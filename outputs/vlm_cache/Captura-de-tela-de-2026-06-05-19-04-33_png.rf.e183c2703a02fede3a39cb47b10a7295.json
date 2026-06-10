@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Há resíduos no chão em frente à garagem.",
+  "confianca": 0.75,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Há resíduos no chão em frente à garagem.\", \"confianca\": 0.75}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1122.51,
+  "image_id": "Captura-de-tela-de-2026-06-05-19-04-33_png.rf.e183c2703a02fede3a39cb47b10a7295.jpg"
+}

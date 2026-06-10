@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de resíduos diversos (entulho, plástico, embalagens) acumulados na calçada e no espaço público.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos diversos (entulho, plástico, embalagens) acumulados na calçada e no espaço público.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1355.59,
+  "image_id": "0065_png.rf.3356a448df1922c7310a2e26be864e9e.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Diversos objetos descartados na calçada, possivelmente sacos de lixo e outros residuos.",
+  "confianca": 0.9,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Diversos objetos descartados na calçada, possivelmente sacos de lixo e outros residuos.\", \"confianca\": 0.9}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1278.63,
+  "image_id": "0036_png.rf.969beef6aca8caf54407045bbb434ba0.jpg"
+}

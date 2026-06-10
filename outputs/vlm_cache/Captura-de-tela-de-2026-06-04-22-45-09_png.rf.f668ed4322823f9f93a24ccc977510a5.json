@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Há um objeto escuro próximo ao poste que pode ser lixo ou resíduo descartado.",
+  "confianca": 0.6,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Há um objeto escuro próximo ao poste que pode ser lixo ou resíduo descartado.\", \"confianca\": 0.6}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1255.79,
+  "image_id": "Captura-de-tela-de-2026-06-04-22-45-09_png.rf.f668ed4322823f9f93a24ccc977510a5.jpg"
+}

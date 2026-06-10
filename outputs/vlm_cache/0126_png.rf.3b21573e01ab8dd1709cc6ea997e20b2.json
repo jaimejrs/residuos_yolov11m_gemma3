@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de lixo acumulado na calçada, incluindo embalagens, papelão e sacos plásticos.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de lixo acumulado na calçada, incluindo embalagens, papelão e sacos plásticos.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1322.78,
+  "image_id": "0126_png.rf.3b21573e01ab8dd1709cc6ea997e20b2.jpg"
+}

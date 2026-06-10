@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de sacos plásticos e outros resíduos acumulados na área verde ao lado da árvore.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos plásticos e outros resíduos acumulados na área verde ao lado da árvore.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1287.56,
+  "image_id": "0046_png.rf.cdabb5d69c50cccd211caf06f9da5e3a.jpg"
+}

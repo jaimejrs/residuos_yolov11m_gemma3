@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Acumulo de residuos e embalagens ao lado da arvore.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acumulo de residuos e embalagens ao lado da arvore.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1202.73,
+  "image_id": "0025_png.rf.7b134340eea3de0629fdbb6a61ccb489.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Acúmulo de lixo e resíduos ao lado das motocicletas e sob a estrutura.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acúmulo de lixo e resíduos ao lado das motocicletas e sob a estrutura.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1294.83,
+  "image_id": "0018_png.rf.9a03172ffcff88cfbac80ec12c5caf4a.jpg"
+}

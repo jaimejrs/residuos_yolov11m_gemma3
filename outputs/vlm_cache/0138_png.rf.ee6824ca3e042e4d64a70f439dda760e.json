@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de entulho e possiveis embalagens descartadas na calçada.",
+  "confianca": 0.9,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de entulho e possiveis embalagens descartadas na calçada.\", \"confianca\": 0.9}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1207.92,
+  "image_id": "0138_png.rf.ee6824ca3e042e4d64a70f439dda760e.jpg"
+}

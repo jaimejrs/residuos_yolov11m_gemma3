@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de resíduos como embalagens e pedaços de papelão na calçada e próximo ao meio-fio.",
+  "confianca": 0.9,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de resíduos como embalagens e pedaços de papelão na calçada e próximo ao meio-fio.\", \"confianca\": 0.9}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1356.93,
+  "image_id": "0007_png.rf.11c60b250afdb358ddcc21dcda66806f.jpg"
+}

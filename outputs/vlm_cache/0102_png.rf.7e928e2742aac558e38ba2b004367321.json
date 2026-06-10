@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de lixo acumulado no canto da rua, incluindo sacos plásticos, embalagens e outros resíduos.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de lixo acumulado no canto da rua, incluindo sacos plásticos, embalagens e outros resíduos.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1358.77,
+  "image_id": "0102_png.rf.7e928e2742aac558e38ba2b004367321.jpg"
+}

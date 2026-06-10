@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de sacos plásticos e outros resíduos na área verde entre a rua e a calçada.",
+  "confianca": 0.9,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos plásticos e outros resíduos na área verde entre a rua e a calçada.\", \"confianca\": 0.9}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1301.85,
+  "image_id": "0020_png.rf.e19936fff9886e4b9ef0526f020dba93.jpg"
+}

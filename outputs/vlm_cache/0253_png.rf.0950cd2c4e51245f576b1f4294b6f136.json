@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Resíduos vegetais e outros detritos acumulados junto ao muro.",
+  "confianca": 0.8,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Resíduos vegetais e outros detritos acumulados junto ao muro.\", \"confianca\": 0.8}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1175.27,
+  "image_id": "0253_png.rf.0950cd2c4e51245f576b1f4294b6f136.jpg"
+}

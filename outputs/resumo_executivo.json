@@ -1,0 +1,86 @@
+{
+  "projeto": "Comparativo YOLOv11m vs Gemma 3 27B — deteccao binaria de residuos em vias",
+  "data_execucao": "2026-06-09 21:42",
+  "hardware": "NVIDIA GeForce RTX 5090",
+  "treino": {
+    "datasets_positivos": [
+      "TACO (script oficial, COCO->YOLO)",
+      "Trash Detection (Roboflow)"
+    ],
+    "background": "Sidewalk Segmentation (mascaras descartadas, seed=42)",
+    "n_train_total": 6736,
+    "n_background": 1051,
+    "n_positivos": 5685,
+    "proporcao_background": "15.6%"
+  },
+  "teste": {
+    "fonte": "560 imagens reais de ruas brasileiras",
+    "total": 560,
+    "com_lixo": 280,
+    "sem_lixo": 280,
+    "anotacao": "por regiao de descarte, nao item individual"
+  },
+  "yolo": {
+    "limiar_principal": 0.25,
+    "criterio_limiar": "padrao literatura YOLO (0.25), fixado a priori",
+    "acuracia": 0.7071,
+    "precisao": 0.7117,
+    "recall": 0.6964,
+    "especificidade": 0.7179,
+    "f1": 0.704,
+    "taxa_fp": 0.2821,
+    "matriz_confusao": [
+      [
+        201,
+        79
+      ],
+      [
+        85,
+        195
+      ]
+    ],
+    "tp": 195,
+    "tn": 201,
+    "fp": 79,
+    "fn": 85,
+    "latencia_e2e_media_ms": 8.4,
+    "latencia_model_media_ms": 7.4,
+    "latencia_p95_ms": 8.1,
+    "throughput_img_s": 135.2
+  },
+  "vlm": {
+    "modelo": "gemma-3-27b-it",
+    "prompt_hash": "228d6f98b7f43ab9",
+    "erros_parse": 0,
+    "erros_detalhados": 0,
+    "acuracia": 0.9179,
+    "precisao": 0.8611,
+    "recall": 0.9964,
+    "especificidade": 0.8393,
+    "f1": 0.9238,
+    "taxa_fp": 0.1607,
+    "matriz_confusao": [
+      [
+        235,
+        45
+      ],
+      [
+        1,
+        279
+      ]
+    ],
+    "tp": 279,
+    "tn": 235,
+    "fp": 45,
+    "fn": 1,
+    "latencia_media_ms": 1191.3,
+    "latencia_p95_ms": 1346.9,
+    "throughput_img_s": 0.8394
+  },
+  "comparativo": {
+    "fator_velocidade_yolo_vs_vlm": 141.0,
+    "fator_velocidade_nota": "latencia end-to-end (inclui I/O de imagem em ambos)",
+    "diferenca_f1": -0.2198,
+    "diferenca_taxa_fp": 0.1214
+  }
+}

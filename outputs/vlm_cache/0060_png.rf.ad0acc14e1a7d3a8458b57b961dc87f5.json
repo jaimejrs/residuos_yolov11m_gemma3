@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Acumulo de sacos de lixo e residuos ao lado de uma estrutura.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acumulo de sacos de lixo e residuos ao lado de uma estrutura.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1228.78,
+  "image_id": "0060_png.rf.ad0acc14e1a7d3a8458b57b961dc87f5.jpg"
+}

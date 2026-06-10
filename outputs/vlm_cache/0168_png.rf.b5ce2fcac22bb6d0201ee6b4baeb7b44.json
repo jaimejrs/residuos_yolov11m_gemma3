@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de resíduos descartados na via pública, incluindo móveis, eletrodomésticos e embalagens.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos descartados na via pública, incluindo móveis, eletrodomésticos e embalagens.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1346.79,
+  "image_id": "0168_png.rf.b5ce2fcac22bb6d0201ee6b4baeb7b44.jpg"
+}

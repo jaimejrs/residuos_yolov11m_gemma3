@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Resíduos e entulho próximos à construção.",
+  "confianca": 0.8,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Resíduos e entulho próximos à construção.\", \"confianca\": 0.8}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1082.51,
+  "image_id": "Captura-de-tela-de-2026-06-05-18-53-44_png.rf.ea200d77a8fa74be5f67d300906fcda1.jpg"
+}

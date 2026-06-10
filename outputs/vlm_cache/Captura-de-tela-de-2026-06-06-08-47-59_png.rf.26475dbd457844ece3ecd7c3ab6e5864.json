@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de objeto não identificado que pode ser lixo próximo a uma das garagens.",
+  "confianca": 0.6,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de objeto não identificado que pode ser lixo próximo a uma das garagens.\", \"confianca\": 0.6}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1227.53,
+  "image_id": "Captura-de-tela-de-2026-06-06-08-47-59_png.rf.26475dbd457844ece3ecd7c3ab6e5864.jpg"
+}

@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de pequenos resíduos no canto da calçada.",
+  "confianca": 0.6,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de pequenos resíduos no canto da calçada.\", \"confianca\": 0.6}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1135.98,
+  "image_id": "Captura-de-tela-2026-06-06-105938_png.rf.20ab2832fa817599535f1a77321900bc.jpg"
+}

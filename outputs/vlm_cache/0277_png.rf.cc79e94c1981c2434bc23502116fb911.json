@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de tambor, caixas de papelão e sacos plásticos descartados no chão.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de tambor, caixas de papelão e sacos plásticos descartados no chão.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1297.45,
+  "image_id": "0277_png.rf.cc79e94c1981c2434bc23502116fb911.jpg"
+}

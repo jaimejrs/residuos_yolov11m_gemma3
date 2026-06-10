@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de resíduos vegetais e possivelmente outros materiais acumulados no canto da calçada.",
+  "confianca": 0.6,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de resíduos vegetais e possivelmente outros materiais acumulados no canto da calçada.\", \"confianca\": 0.6}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1280.04,
+  "image_id": "Captura-de-tela-de-2026-06-05-21-46-01_png.rf.cd26fecf4f0a8b1c950ec2998cfb46c9.jpg"
+}

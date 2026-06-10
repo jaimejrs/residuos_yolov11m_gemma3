@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Acúmulo de lixo e resíduos na calçada e próximo ao meio-fio.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acúmulo de lixo e resíduos na calçada e próximo ao meio-fio.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 860.7,
+  "image_id": "0001_png.rf.46fadddf83685aa742b67c843dcd1c12.jpg"
+}

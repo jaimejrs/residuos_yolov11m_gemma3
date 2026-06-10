@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de um objeto escuro (possivelmente papelão ou plástico) no chão em frente às garagens.",
+  "confianca": 0.7,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de um objeto escuro (possivelmente papelão ou plástico) no chão em frente às garagens.\", \"confianca\": 0.7}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1327.03,
+  "image_id": "Captura-de-tela-2026-06-06-104500_png.rf.ac3ea23e9f61328d1ea7cf51fa254bae.jpg"
+}

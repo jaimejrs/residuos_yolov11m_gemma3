@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Grande quantidade de resíduos e entulho acumulados na calçada e área adjacente.",
+  "confianca": 0.95,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos e entulho acumulados na calçada e área adjacente.\", \"confianca\": 0.95}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1260.03,
+  "image_id": "0059_png.rf.fee2b6417ac39d1d02d32ea5d1a67e2d.jpg"
+}

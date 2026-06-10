@@ -1,0 +1,12 @@
+{
+  "tem_lixo": true,
+  "descricao_breve": "Presença de sacos de lixo e outros residuos na grama ao lado da via.",
+  "confianca": 0.9,
+  "parse_error": false,
+  "schema_valido": true,
+  "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos de lixo e outros residuos na grama ao lado da via.\", \"confianca\": 0.9}",
+  "prompt_hash": "228d6f98b7f43ab9",
+  "config_vlm": "temperature=0, seed=42, json_schema",
+  "latencia_end_to_end_ms": 1255.99,
+  "image_id": "0088_png.rf.26bad349a474ea2d2e4dbd92e9f5f263.jpg"
+}
