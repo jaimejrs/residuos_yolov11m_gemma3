@@ -10,7 +10,7 @@ Este repositório contém os dados, códigos e artefatos do Trabalho de Conclus�
 
 ---
 
-## 📊 Matriz Comparativa de Resultados
+## Matriz Comparativa de Resultados
 
 O experimento foi executado em ambiente controlado utilizando uma GPU **NVIDIA GeForce RTX 5090 (32 GB VRAM)**. A avaliação considerou um conjunto de teste inédito e balanceado contendo **560 imagens reais de ruas brasileiras** (280 positivas com resíduos e 280 negativas).
 
@@ -30,7 +30,7 @@ O experimento foi executado em ambiente controlado utilizando uma GPU **NVIDIA G
 
 ---
 
-## 🔍 Principais Conclusões e Análise Inferencial
+## Principais Conclusões e Análise Inferencial
 
 * **Significância Estatística**: O teste de **McNemar** rejeitou a hipótese nula de equivalência entre os modelos com significância extrema ($\chi^2 = 74,40$, $p \approx 6,4 \times 10^{-18}$), confirmando que a superioridade preditiva do Gemma 3 nesta tarefa é estatisticamente consistente.
 * **Trade-off Operacional**:
@@ -39,7 +39,7 @@ O experimento foi executado em ambiente controlado utilizando uma GPU **NVIDIA G
 
 ---
 
-## 🛠️ Arquitetura Híbrida Proposta
+## Arquitetura Híbrida Proposta
 
 Os padrões de erros demonstraram complementaridade parcial entre os modelos. Enquanto o YOLOv11m falha em resíduos camuflados ou dispersos, o Gemma 3 ocasionalmente gera falsos alarmes em texturas complexas (como vegetação seca ou calçadas danificadas). 
 
@@ -56,7 +56,7 @@ graph TD
 
 ---
 
-## 📂 Organização do Repositório
+## Organização do Repositório
 
 ```
 ├── analise_visual_gemma/
@@ -74,7 +74,7 @@ graph TD
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Configuração do Ambiente
 Certifique-se de possuir Python 3.10+ e as dependências do repositório instaladas:
@@ -96,7 +96,7 @@ O prompt padronizado enviado ao modelo é:
 
 ---
 
-## 🎓 Autor e Orientador
+## Autor e Orientador
 
 * **Autor**: Jaime Teixeira de Araújo Júnior — *Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC/UFC)* — [jaimetjribeiro@gmail.com](mailto:jaimetjribeiro@gmail.com)
 * **Orientador**: Prof. Dr. Carlos de Oliveira Caminha Neto — *Universidade Federal do Ceará (UFC)*
