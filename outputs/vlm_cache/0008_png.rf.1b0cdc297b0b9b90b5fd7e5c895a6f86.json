@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Vários sacos de lixo acumulados no canto da rua.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1164.93,
+  "latencia_end_to_end_ms": 1290.6,
   "image_id": "0008_png.rf.1b0cdc297b0b9b90b5fd7e5c895a6f86.jpg"
 }

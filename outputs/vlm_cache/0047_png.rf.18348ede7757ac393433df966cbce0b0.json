@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Sacos de lixo e embalagens plásticas descartadas ao lado de uma árvore na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1300.36,
+  "latencia_end_to_end_ms": 1252.73,
   "image_id": "0047_png.rf.18348ede7757ac393433df966cbce0b0.jpg"
 }

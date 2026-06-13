@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Balde branco com residuos visiveis na calçada.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1141.04,
+  "latencia_end_to_end_ms": 1218.72,
   "image_id": "Captura-de-tela-de-2026-06-05-21-54-05_png.rf.7b3444b84a7cfc55d1a4d25b8f97c0c2.jpg"
 }

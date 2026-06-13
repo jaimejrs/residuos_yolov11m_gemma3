@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos acumulados na calçada e no meio da rua.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1238.32,
+  "latencia_end_to_end_ms": 1218.92,
   "image_id": "0011_png.rf.3f147c35954ecdc2391e56d94a88d268.jpg"
 }

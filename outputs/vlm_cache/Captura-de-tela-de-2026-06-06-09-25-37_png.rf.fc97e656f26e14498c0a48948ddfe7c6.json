@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Objeto vermelho (possivelmente embalagem plastica) no alto da imagem.\", \"confianca\": 0.7}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1181.97,
+  "latencia_end_to_end_ms": 1207.66,
   "image_id": "Captura-de-tela-de-2026-06-06-09-25-37_png.rf.fc97e656f26e14498c0a48948ddfe7c6.jpg"
 }

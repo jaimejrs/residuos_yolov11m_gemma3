@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de entulho, pedaços de madeira e outros resíduos descartados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1293.96,
+  "latencia_end_to_end_ms": 1130.05,
   "image_id": "0077_png.rf.1ef5ad92f34cebb65ae1975f439d4ce7.jpg"
 }

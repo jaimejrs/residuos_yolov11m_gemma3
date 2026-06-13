@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Possível resíduo escuro na calçada.\", \"confianca\": 0.6}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1113.86,
+  "latencia_end_to_end_ms": 1123.71,
   "image_id": "Captura-de-tela-de-2026-06-04-22-44-06_png.rf.1b84206737d4a259bfffef5252ab28dc.jpg"
 }

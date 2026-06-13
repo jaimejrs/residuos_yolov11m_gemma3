@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos plásticos, embalagens e outros resíduos descartados na área verde ao lado da via.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1353.03,
+  "latencia_end_to_end_ms": 1146.37,
   "image_id": "0230_png.rf.010bb6669e32c7ff83929594bfd02b37.jpg"
 }

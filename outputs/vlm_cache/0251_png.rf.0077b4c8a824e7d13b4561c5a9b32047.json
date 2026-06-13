@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Saco de lixo preto ao lado de uma lixeira.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1176.12,
+  "latencia_end_to_end_ms": 1241.73,
   "image_id": "0251_png.rf.0077b4c8a824e7d13b4561c5a9b32047.jpg"
 }

@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Sacos de lixo e residuos ao lado da calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1144.7,
+  "latencia_end_to_end_ms": 1248.41,
   "image_id": "0010_png.rf.719dd5e146376e89b263e131ba6a7320.jpg"
 }

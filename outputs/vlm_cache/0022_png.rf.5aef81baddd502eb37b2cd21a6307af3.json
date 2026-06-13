@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Entulho de construcao e residuos diversos acumulados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1176.19,
+  "latencia_end_to_end_ms": 1197.23,
   "image_id": "0022_png.rf.5aef81baddd502eb37b2cd21a6307af3.jpg"
 }

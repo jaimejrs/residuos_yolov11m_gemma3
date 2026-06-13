@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Caixas de papelão e possiveis embalagens descartadas na calçada em frente à loja.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1299.32,
+  "latencia_end_to_end_ms": 1289.05,
   "image_id": "Captura-de-tela-de-2026-06-04-22-09-42_png.rf.6e401e0da2de1bda4089b1cdf61647af.jpg"
 }

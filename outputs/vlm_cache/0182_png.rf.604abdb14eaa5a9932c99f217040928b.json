@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de sacos plásticos e outros resíduos acumulados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1242.85,
+  "latencia_end_to_end_ms": 1257.85,
   "image_id": "0182_png.rf.604abdb14eaa5a9932c99f217040928b.jpg"
 }

@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acúmulo de resíduos vegetais e outros materiais descartados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1238.1,
+  "latencia_end_to_end_ms": 1233.82,
   "image_id": "0263_png.rf.95f3e904beda3258ec1d71fd5bde7c3b.jpg"
 }

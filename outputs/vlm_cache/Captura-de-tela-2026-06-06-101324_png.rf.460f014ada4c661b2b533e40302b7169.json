@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de pequenos resíduos no chão próximo à calçada.\", \"confianca\": 0.75}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1175.15,
+  "latencia_end_to_end_ms": 1239.25,
   "image_id": "Captura-de-tela-2026-06-06-101324_png.rf.460f014ada4c661b2b533e40302b7169.jpg"
 }

@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos vegetais e outros materiais descartados na via pública.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1204.55,
+  "latencia_end_to_end_ms": 1201.62,
   "image_id": "0195_png.rf.fff609f41889ea446e626caab7c3db10.jpg"
 }

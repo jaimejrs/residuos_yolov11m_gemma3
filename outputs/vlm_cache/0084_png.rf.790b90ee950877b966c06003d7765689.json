@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Sacos de lixo e residuos espalhados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1174.65,
+  "latencia_end_to_end_ms": 1184.06,
   "image_id": "0084_png.rf.790b90ee950877b966c06003d7765689.jpg"
 }

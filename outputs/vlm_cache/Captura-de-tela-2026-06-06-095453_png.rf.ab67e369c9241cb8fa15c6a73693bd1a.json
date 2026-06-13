@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de resíduos brancos no canto inferior esquerdo da imagem.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1191.35,
+  "latencia_end_to_end_ms": 1256.1,
   "image_id": "Captura-de-tela-2026-06-06-095453_png.rf.ab67e369c9241cb8fa15c6a73693bd1a.jpg"
 }

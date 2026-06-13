@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Entulho de construção e pedaços de material desconhecido descartados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1266.75,
+  "latencia_end_to_end_ms": 1187.91,
   "image_id": "0177_png.rf.bef87b6645af9f251fd8604dce44adb2.jpg"
 }

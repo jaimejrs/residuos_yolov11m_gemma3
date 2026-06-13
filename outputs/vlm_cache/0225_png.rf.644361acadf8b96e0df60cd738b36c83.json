@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de lixo acumulado, incluindo sacos plásticos pretos, papelão, folhas e outros resíduos.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1352.8,
+  "latencia_end_to_end_ms": 1238.97,
   "image_id": "0225_png.rf.644361acadf8b96e0df60cd738b36c83.jpg"
 }

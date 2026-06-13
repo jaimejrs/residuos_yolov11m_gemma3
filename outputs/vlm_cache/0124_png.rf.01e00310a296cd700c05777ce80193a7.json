@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Entulho de construcao e residuos diversos espalhados na area.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1184.87,
+  "latencia_end_to_end_ms": 1167.53,
   "image_id": "0124_png.rf.01e00310a296cd700c05777ce80193a7.jpg"
 }

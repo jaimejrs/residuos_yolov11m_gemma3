@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de diversos resíduos como plástico, papel e outros materiais descartados no terreno.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1237.48,
+  "latencia_end_to_end_ms": 1303.03,
   "image_id": "0255_png.rf.608e426612f4d33be78f65f5e1ecf6af.jpg"
 }

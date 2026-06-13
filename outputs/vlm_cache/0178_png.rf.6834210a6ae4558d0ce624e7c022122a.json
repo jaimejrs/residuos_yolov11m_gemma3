@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acumulo de lixo e residuos na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1180.23,
+  "latencia_end_to_end_ms": 1213.77,
   "image_id": "0178_png.rf.6834210a6ae4558d0ce624e7c022122a.jpg"
 }

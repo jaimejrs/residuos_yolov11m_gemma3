@@ -1,4 +1,5 @@
 # Viabilidade da Inteligência Artificial no Monitoramento de Resíduos Urbanos em Vias Públicas
+
 ### Comparação Experimental entre YOLOv11m e Gemma 3 27B-IT
 
 ---
@@ -41,7 +42,7 @@ O experimento foi executado em ambiente controlado utilizando uma GPU **NVIDIA G
 
 ## Arquitetura Híbrida Proposta
 
-Os padrões de erros demonstraram complementaridade parcial entre os modelos. Enquanto o YOLOv11m falha em resíduos camuflados ou dispersos, o Gemma 3 ocasionalmente gera falsos alarmes em texturas complexas (como vegetação seca ou calçadas danificadas). 
+Os padrões de erros demonstraram complementaridade parcial entre os modelos. Enquanto o YOLOv11m falha em resíduos camuflados ou dispersos, o Gemma 3 ocasionalmente gera falsos alarmes em texturas complexas (como vegetação seca ou calçadas danificadas).
 
 Propõe-se um fluxo integrado para otimização de recursos municipais:
 
@@ -56,47 +57,34 @@ graph TD
 
 ---
 
-## Organização do Repositório
-
-```
-├── analise_visual_gemma/
-│   └── analise_visual.xlsx       # Registro detalhado da inspeção visual do VLM
-├── imagens/                      # Diretório reservado para dados locais
-├── outputs/
-│   ├── figures/                  # Gráficos, matrizes de confusão e curvas de treino
-│   ├── metricas_finais.json      # Dados preditivos consolidados
-│   ├── resumo_executivo.json     # Metadados consolidados de execução e hardware
-│   └── predictions_vlm.json      # Respostas JSON brutas obtidas do Gemma 3
-├── requirements.txt              # Dependências Python do projeto
-├── .env                          # Variáveis de ambiente (Roboflow, LM Studio API, etc)
-└── env.exemplo                   # Arquivo de exemplo contendo a estrutura da configuração
-```
-
----
-
 ## Como Executar o Projeto
 
 ### 1. Configuração do Ambiente
+
 Certifique-se de possuir Python 3.10+ e as dependências do repositório instaladas:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 2. Variáveis de Ambiente
+
 Copie o arquivo `env.exemplo` para `.env` e preencha as chaves do Roboflow (se for treinar ou obter dados adicionais) e o endpoint do seu servidor do LM Studio:
+
 ```bash
 cp env.exemplo .env
 ```
 
 ### 3. Execução da Inferência (Gemma 3 27B-IT via LM Studio)
-Inicie o servidor local no LM Studio com o modelo `gemma-3-27b-it` (quantização Q5_K_M recomendada) na porta `1234`. 
+
+Inicie o servidor local no LM Studio com o modelo `gemma-3-27b-it` (quantização Q5_K_M recomendada) na porta `1234`.
 O prompt padronizado enviado ao modelo é:
 
 > *"Você é um analista de monitoramento de vias públicas. Sua tarefa é responder uma única pergunta: há lixo ou resíduos descartados nesta imagem de rua? Considere como lixo sacos de lixo, garrafas, latas, papelão, embalagens, plásticos, vidros ou qualquer resíduo descartado em via pública ou calçada. Não considere como lixo lixeiras ou contêineres fechados em uso normal, veículos, pessoas, vegetação, mobiliário urbano em bom estado ou pavimentação normal. Responda estritamente em JSON válido, sem markdown e sem texto fora do JSON: `{"tem_lixo": true, "descricao_breve": "...", "confianca": 0.0}`. Caso não haja lixo visível, retorne `"tem_lixo": false`."*
 
 ---
 
-## Autor e Orientador
+## 🎓 Autor e Orientador
 
 * **Autor**: Jaime Teixeira de Araújo Júnior — *Faculdade de Economia, Administração, Atuária e Contabilidade (FEAAC/UFC)* — [jaimetjribeiro@gmail.com](mailto:jaimetjribeiro@gmail.com)
 * **Orientador**: Prof. Dr. Carlos de Oliveira Caminha Neto — *Universidade Federal do Ceará (UFC)*

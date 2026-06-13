@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos e entulho acumulados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1182.62,
+  "latencia_end_to_end_ms": 1191.25,
   "image_id": "0127_png.rf.157481e167eb0c7cb3525eafbf851e77.jpg"
 }

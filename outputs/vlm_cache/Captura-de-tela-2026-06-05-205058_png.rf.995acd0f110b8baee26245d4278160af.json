@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Existem residuos plasticos e outros detritos na calçada.\", \"confianca\": 0.85}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1165.07,
+  "latencia_end_to_end_ms": 1212.64,
   "image_id": "Captura-de-tela-2026-06-05-205058_png.rf.995acd0f110b8baee26245d4278160af.jpg"
 }

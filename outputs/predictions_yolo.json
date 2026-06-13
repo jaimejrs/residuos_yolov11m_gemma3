@@ -122,8 +122,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.73
+      "latencia_model_only_ms": 318.59,
+      "latencia_end_to_end_ms": 320.47
     },
     {
       "image_id": "0002_png.rf.a29cc134fd5ef3de536d91625bc431b9.jpg",
@@ -390,8 +390,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.85,
-      "latencia_end_to_end_ms": 9.5
+      "latencia_model_only_ms": 314.99,
+      "latencia_end_to_end_ms": 316.43
     },
     {
       "image_id": "0003_png.rf.75866d15bdb7ee8513e35f2536efffa8.jpg",
@@ -469,8 +469,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 320.33,
+      "latencia_end_to_end_ms": 322.37
     },
     {
       "image_id": "0004_png.rf.743cbfae4726326044854ae2ec8feb9b.jpg",
@@ -494,8 +494,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 321.55,
+      "latencia_end_to_end_ms": 323.26
     },
     {
       "image_id": "0005_png.rf.615c600de1855d04bb5069ff5fac35c4.jpg",
@@ -510,8 +510,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 309.94,
+      "latencia_end_to_end_ms": 312.11
     },
     {
       "image_id": "0006_png.rf.aa9b3dfe000414e04c06935acedc93cb.jpg",
@@ -553,8 +553,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 7.99
+      "latencia_model_only_ms": 314.55,
+      "latencia_end_to_end_ms": 315.86
     },
     {
       "image_id": "0007_png.rf.11c60b250afdb358ddcc21dcda66806f.jpg",
@@ -578,14 +578,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.34,
-      "latencia_end_to_end_ms": 8.22
+      "latencia_model_only_ms": 320.69,
+      "latencia_end_to_end_ms": 322.72
     },
     {
       "image_id": "0008_png.rf.1b0cdc297b0b9b90b5fd7e5c895a6f86.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.01,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 318.75,
+      "latencia_end_to_end_ms": 320.28
     },
     {
       "image_id": "0009_png.rf.4a8bfe2066823788778e98198e7d8efa.jpg",
@@ -627,8 +627,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 316.67,
+      "latencia_end_to_end_ms": 318.74
     },
     {
       "image_id": "0010_png.rf.719dd5e146376e89b263e131ba6a7320.jpg",
@@ -652,8 +652,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.39
+      "latencia_model_only_ms": 357.18,
+      "latencia_end_to_end_ms": 361.09
     },
     {
       "image_id": "0011_png.rf.3f147c35954ecdc2391e56d94a88d268.jpg",
@@ -677,8 +677,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.84,
-      "latencia_end_to_end_ms": 9.05
+      "latencia_model_only_ms": 349.1,
+      "latencia_end_to_end_ms": 351.52
     },
     {
       "image_id": "0012_png.rf.4f9ff847bcd80db4cacb14a43f5d9b3f.jpg",
@@ -792,8 +792,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 7.96
+      "latencia_model_only_ms": 470.29,
+      "latencia_end_to_end_ms": 473.92
     },
     {
       "image_id": "0013_png.rf.db36005818c0efd1f497a2fea94e6080.jpg",
@@ -961,8 +961,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.6,
-      "latencia_end_to_end_ms": 8.71
+      "latencia_model_only_ms": 767.75,
+      "latencia_end_to_end_ms": 771.15
     },
     {
       "image_id": "0014_png.rf.4433ff0a895c21f8cc2d148575086b39.jpg",
@@ -1040,8 +1040,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.19,
-      "latencia_end_to_end_ms": 8.25
+      "latencia_model_only_ms": 689.91,
+      "latencia_end_to_end_ms": 691.29
     },
     {
       "image_id": "0015_png.rf.9f7da6f9dd40b96189bbb1891c0fc115.jpg",
@@ -1083,8 +1083,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 389.92,
+      "latencia_end_to_end_ms": 391.93
     },
     {
       "image_id": "0016_png.rf.4d617a02171d0981c828cae08c5b422f.jpg",
@@ -1126,8 +1126,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.07,
-      "latencia_end_to_end_ms": 9.06
+      "latencia_model_only_ms": 452.52,
+      "latencia_end_to_end_ms": 455.82
     },
     {
       "image_id": "0017_png.rf.0d1e47243d14e3071ba94161fdb6527d.jpg",
@@ -1178,8 +1178,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.85,
-      "latencia_end_to_end_ms": 7.8
+      "latencia_model_only_ms": 432.66,
+      "latencia_end_to_end_ms": 435.89
     },
     {
       "image_id": "0018_png.rf.9a03172ffcff88cfbac80ec12c5caf4a.jpg",
@@ -1419,14 +1419,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 344.66,
+      "latencia_end_to_end_ms": 346.74
     },
     {
       "image_id": "0019_png.rf.2c02c405038cf805004ee57d1cbb430d.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.86,
-      "latencia_end_to_end_ms": 7.89
+      "latencia_model_only_ms": 392.82,
+      "latencia_end_to_end_ms": 395.54
     },
     {
       "image_id": "0020_png.rf.e19936fff9886e4b9ef0526f020dba93.jpg",
@@ -1468,8 +1468,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.0,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 409.47,
+      "latencia_end_to_end_ms": 413.3
     },
     {
       "image_id": "0021_png.rf.2e1a9c006b6db48a6424b57c93eb8936.jpg",
@@ -1682,8 +1682,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.94,
-      "latencia_end_to_end_ms": 8.93
+      "latencia_model_only_ms": 422.84,
+      "latencia_end_to_end_ms": 424.04
     },
     {
       "image_id": "0022_png.rf.5aef81baddd502eb37b2cd21a6307af3.jpg",
@@ -1752,8 +1752,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.72
+      "latencia_model_only_ms": 567.49,
+      "latencia_end_to_end_ms": 570.63
     },
     {
       "image_id": "0023_png.rf.c27d579eb71072841fac0be568a4e07b.jpg",
@@ -1768,8 +1768,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.22
+      "latencia_model_only_ms": 388.05,
+      "latencia_end_to_end_ms": 391.02
     },
     {
       "image_id": "0024_png.rf.b0993324bd57f8cc9d019d49a4eb90f8.jpg",
@@ -1937,8 +1937,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 345.86,
+      "latencia_end_to_end_ms": 350.98
     },
     {
       "image_id": "0025_png.rf.7b134340eea3de0629fdbb6a61ccb489.jpg",
@@ -1980,8 +1980,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.96,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 348.5,
+      "latencia_end_to_end_ms": 350.44
     },
     {
       "image_id": "0026_png.rf.d2e5e9928d59cd2c000401c92ccb9e7b.jpg",
@@ -2014,8 +2014,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.44,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 379.23,
+      "latencia_end_to_end_ms": 381.14
     },
     {
       "image_id": "0027_png.rf.6434aa36af1db108b94938969a31d8a0.jpg",
@@ -2084,8 +2084,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.29,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 346.74,
+      "latencia_end_to_end_ms": 351.36
     },
     {
       "image_id": "0028_png.rf.9b31d9f1046c079fe57f144d1aa173af.jpg",
@@ -2172,8 +2172,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.0,
-      "latencia_end_to_end_ms": 8.01
+      "latencia_model_only_ms": 342.76,
+      "latencia_end_to_end_ms": 345.25
     },
     {
       "image_id": "0029_png.rf.1e301d52fbd6f87e15c2bf88ddf8cc9c.jpg",
@@ -2269,8 +2269,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.97,
-      "latencia_end_to_end_ms": 9.19
+      "latencia_model_only_ms": 328.27,
+      "latencia_end_to_end_ms": 330.03
     },
     {
       "image_id": "0030_png.rf.51aaca55f0dc987741ee330c8fe1d930.jpg",
@@ -2348,8 +2348,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 327.47,
+      "latencia_end_to_end_ms": 329.54
     },
     {
       "image_id": "0031_png.rf.3d0f99c67a1eda60578e3b0d65d31465.jpg",
@@ -2445,8 +2445,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.68,
-      "latencia_end_to_end_ms": 8.74
+      "latencia_model_only_ms": 331.11,
+      "latencia_end_to_end_ms": 332.82
     },
     {
       "image_id": "0032_png.rf.ef3438e853f7049321ccb76f2c30739e.jpg",
@@ -2587,8 +2587,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 327.59,
+      "latencia_end_to_end_ms": 329.83
     },
     {
       "image_id": "0033_png.rf.06dbcc53d3c8fdd4109b5d797136c0b4.jpg",
@@ -2639,8 +2639,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.39
+      "latencia_model_only_ms": 326.7,
+      "latencia_end_to_end_ms": 328.03
     },
     {
       "image_id": "0034_png.rf.d75257b75fd55f547ed2000816db4573.jpg",
@@ -2934,8 +2934,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.46,
-      "latencia_end_to_end_ms": 8.57
+      "latencia_model_only_ms": 331.36,
+      "latencia_end_to_end_ms": 332.89
     },
     {
       "image_id": "0035_png.rf.eea64570fd9fd3069a7ab825fdfabfa6.jpg",
@@ -3076,8 +3076,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.31
+      "latencia_model_only_ms": 328.06,
+      "latencia_end_to_end_ms": 331.14
     },
     {
       "image_id": "0036_png.rf.969beef6aca8caf54407045bbb434ba0.jpg",
@@ -3191,14 +3191,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.64
+      "latencia_model_only_ms": 334.92,
+      "latencia_end_to_end_ms": 338.22
     },
     {
       "image_id": "0037_png.rf.63fd666d46ad74965e785ee56d5de17c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.95,
-      "latencia_end_to_end_ms": 7.89
+      "latencia_model_only_ms": 330.58,
+      "latencia_end_to_end_ms": 334.7
     },
     {
       "image_id": "0038_png.rf.048635f3765350fd2305f72ab18e503e.jpg",
@@ -3231,8 +3231,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.41,
-      "latencia_end_to_end_ms": 8.39
+      "latencia_model_only_ms": 331.96,
+      "latencia_end_to_end_ms": 334.61
     },
     {
       "image_id": "0039_png.rf.8cce46fbf06e719350b27a3968546660.jpg",
@@ -3265,8 +3265,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.67,
-      "latencia_end_to_end_ms": 8.68
+      "latencia_model_only_ms": 329.66,
+      "latencia_end_to_end_ms": 331.96
     },
     {
       "image_id": "0040_png.rf.4566c8c9dfea0e3f182586338ebd6183.jpg",
@@ -3290,8 +3290,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.21,
-      "latencia_end_to_end_ms": 8.25
+      "latencia_model_only_ms": 328.41,
+      "latencia_end_to_end_ms": 330.18
     },
     {
       "image_id": "0041_png.rf.1dd83aaf01160c33b5c82ce8f2b8a37a.jpg",
@@ -3306,8 +3306,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.06,
-      "latencia_end_to_end_ms": 9.02
+      "latencia_model_only_ms": 330.33,
+      "latencia_end_to_end_ms": 332.14
     },
     {
       "image_id": "0042_png.rf.294a9e546c99c9c31206ce7c329f3b2b.jpg",
@@ -3412,8 +3412,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.86,
-      "latencia_end_to_end_ms": 8.94
+      "latencia_model_only_ms": 333.02,
+      "latencia_end_to_end_ms": 335.75
     },
     {
       "image_id": "0043_png.rf.8e8a284e01ad3ec4cff1108dc59b02cc.jpg",
@@ -3491,14 +3491,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.73,
-      "latencia_end_to_end_ms": 8.82
+      "latencia_model_only_ms": 330.76,
+      "latencia_end_to_end_ms": 333.31
     },
     {
       "image_id": "0044_png.rf.d33c15b30c20d39532374283741e0ce5.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.99,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 331.14,
+      "latencia_end_to_end_ms": 335.81
     },
     {
       "image_id": "0045_png.rf.78a17743a01f7a60ee7b6264f04278a7.jpg",
@@ -3513,8 +3513,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.45
+      "latencia_model_only_ms": 329.9,
+      "latencia_end_to_end_ms": 332.85
     },
     {
       "image_id": "0046_png.rf.cdabb5d69c50cccd211caf06f9da5e3a.jpg",
@@ -3574,8 +3574,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 331.62,
+      "latencia_end_to_end_ms": 333.24
     },
     {
       "image_id": "0047_png.rf.18348ede7757ac393433df966cbce0b0.jpg",
@@ -3617,8 +3617,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 332.34,
+      "latencia_end_to_end_ms": 335.32
     },
     {
       "image_id": "0048_png.rf.a2b259919a967a140a4fcaf6937c4817.jpg",
@@ -3651,8 +3651,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 331.49,
+      "latencia_end_to_end_ms": 333.61
     },
     {
       "image_id": "0049_png.rf.c11e5895be26d55bd1af85371556a1ac.jpg",
@@ -3730,8 +3730,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.57,
-      "latencia_end_to_end_ms": 8.57
+      "latencia_model_only_ms": 332.24,
+      "latencia_end_to_end_ms": 334.39
     },
     {
       "image_id": "0050_png.rf.0b3e4a8a3000dec5918f536ecf4479da.jpg",
@@ -3863,8 +3863,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.33,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 333.07,
+      "latencia_end_to_end_ms": 335.35
     },
     {
       "image_id": "0051_png.rf.6dfe466b9b8315f497ce91684d08613d.jpg",
@@ -3879,8 +3879,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.55
+      "latencia_model_only_ms": 332.3,
+      "latencia_end_to_end_ms": 334.99
     },
     {
       "image_id": "0052_png.rf.5883d375fe45d193cc882f5d81cccfa0.jpg",
@@ -3922,8 +3922,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.53,
-      "latencia_end_to_end_ms": 9.65
+      "latencia_model_only_ms": 341.9,
+      "latencia_end_to_end_ms": 344.0
     },
     {
       "image_id": "0053_png.rf.6e14490d11c3887218351e2a31dfca57.jpg",
@@ -4046,8 +4046,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.39
+      "latencia_model_only_ms": 348.45,
+      "latencia_end_to_end_ms": 351.43
     },
     {
       "image_id": "0054_png.rf.a621e29f5d1f5fcd87e4b0fa624aa2be.jpg",
@@ -4134,8 +4134,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.83,
-      "latencia_end_to_end_ms": 8.86
+      "latencia_model_only_ms": 334.69,
+      "latencia_end_to_end_ms": 336.4
     },
     {
       "image_id": "0055_png.rf.4bae67389ba2b9348bd2fdee7a40a0d9.jpg",
@@ -4204,8 +4204,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.82,
-      "latencia_end_to_end_ms": 8.8
+      "latencia_model_only_ms": 334.82,
+      "latencia_end_to_end_ms": 336.48
     },
     {
       "image_id": "0056_png.rf.2f441ccf7ed9a370915579ed36e752e9.jpg",
@@ -4697,8 +4697,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.63
+      "latencia_model_only_ms": 334.09,
+      "latencia_end_to_end_ms": 336.51
     },
     {
       "image_id": "0057_png.rf.c5711c87dcf24008250efa131fbabd75.jpg",
@@ -5100,8 +5100,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.21,
-      "latencia_end_to_end_ms": 9.25
+      "latencia_model_only_ms": 332.26,
+      "latencia_end_to_end_ms": 333.38
     },
     {
       "image_id": "0058_png.rf.2db17cb6d4f54daeb200e8387d062948.jpg",
@@ -5233,8 +5233,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.69
+      "latencia_model_only_ms": 333.83,
+      "latencia_end_to_end_ms": 335.24
     },
     {
       "image_id": "0059_png.rf.fee2b6417ac39d1d02d32ea5d1a67e2d.jpg",
@@ -5285,8 +5285,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 334.13,
+      "latencia_end_to_end_ms": 335.78
     },
     {
       "image_id": "0060_png.rf.ad0acc14e1a7d3a8458b57b961dc87f5.jpg",
@@ -5445,8 +5445,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.3,
-      "latencia_end_to_end_ms": 9.31
+      "latencia_model_only_ms": 334.77,
+      "latencia_end_to_end_ms": 338.46
     },
     {
       "image_id": "0061_png.rf.d26ff2b361a1e3ee13da40bb984d1f1b.jpg",
@@ -5524,8 +5524,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.79
+      "latencia_model_only_ms": 334.12,
+      "latencia_end_to_end_ms": 336.0
     },
     {
       "image_id": "0062_png.rf.f19f8e3aa6456f1dfc66c36c3135d126.jpg",
@@ -5540,8 +5540,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.31,
-      "latencia_end_to_end_ms": 9.41
+      "latencia_model_only_ms": 335.0,
+      "latencia_end_to_end_ms": 338.12
     },
     {
       "image_id": "0063_png.rf.bdea974cb1a83d676a54aa9fbc69066d.jpg",
@@ -5718,8 +5718,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 334.28,
+      "latencia_end_to_end_ms": 336.04
     },
     {
       "image_id": "0064_png.rf.34457208825aadf31997a6e59fd5b964.jpg",
@@ -5914,8 +5914,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 335.26,
+      "latencia_end_to_end_ms": 338.02
     },
     {
       "image_id": "0065_png.rf.3356a448df1922c7310a2e26be864e9e.jpg",
@@ -6137,14 +6137,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.69
+      "latencia_model_only_ms": 330.01,
+      "latencia_end_to_end_ms": 331.48
     },
     {
       "image_id": "0066_png.rf.03840d11d9349411095003e17ec97d2d.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.13
+      "latencia_model_only_ms": 333.83,
+      "latencia_end_to_end_ms": 338.04
     },
     {
       "image_id": "0067_png.rf.99548bc87b25b0a9e806db7aa39aa66f.jpg",
@@ -6177,8 +6177,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 9.02
+      "latencia_model_only_ms": 332.77,
+      "latencia_end_to_end_ms": 334.79
     },
     {
       "image_id": "0068_png.rf.909799093fca68d5b8f2efd575f9010d.jpg",
@@ -6292,8 +6292,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.26
+      "latencia_model_only_ms": 468.43,
+      "latencia_end_to_end_ms": 470.82
     },
     {
       "image_id": "0069_png.rf.5b300eee3493d3c107cb381fecbf115b.jpg",
@@ -6551,8 +6551,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.58
+      "latencia_model_only_ms": 403.97,
+      "latencia_end_to_end_ms": 405.76
     },
     {
       "image_id": "0070_png.rf.103ebae7a77113f0571df63df814055c.jpg",
@@ -6657,8 +6657,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.83,
-      "latencia_end_to_end_ms": 8.85
+      "latencia_model_only_ms": 331.93,
+      "latencia_end_to_end_ms": 334.52
     },
     {
       "image_id": "0071_png.rf.e044e1320222bde1d4fc564e666c06d0.jpg",
@@ -6718,8 +6718,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.86,
-      "latencia_end_to_end_ms": 8.88
+      "latencia_model_only_ms": 338.94,
+      "latencia_end_to_end_ms": 342.81
     },
     {
       "image_id": "0072_png.rf.de2abe2064152b0699115dab8ceef610.jpg",
@@ -6887,8 +6887,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 8.75
+      "latencia_model_only_ms": 335.55,
+      "latencia_end_to_end_ms": 338.04
     },
     {
       "image_id": "0073_png.rf.6f86be0a5c37d89321595c7c6ea64d59.jpg",
@@ -6903,8 +6903,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 337.38,
+      "latencia_end_to_end_ms": 339.87
     },
     {
       "image_id": "0074_png.rf.f62f9c13e78a35e7e86387c679b4b316.jpg",
@@ -7000,8 +7000,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.89,
-      "latencia_end_to_end_ms": 8.87
+      "latencia_model_only_ms": 330.36,
+      "latencia_end_to_end_ms": 332.46
     },
     {
       "image_id": "0075_png.rf.2cf8c3db745bd9272a23412a161cdae2.jpg",
@@ -7034,8 +7034,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 342.03,
+      "latencia_end_to_end_ms": 344.28
     },
     {
       "image_id": "0076_png.rf.7bc5f38768867e331203d4b165772096.jpg",
@@ -7131,8 +7131,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 335.44,
+      "latencia_end_to_end_ms": 336.65
     },
     {
       "image_id": "0077_png.rf.1ef5ad92f34cebb65ae1975f439d4ce7.jpg",
@@ -7219,8 +7219,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.76,
-      "latencia_end_to_end_ms": 8.73
+      "latencia_model_only_ms": 331.76,
+      "latencia_end_to_end_ms": 333.2
     },
     {
       "image_id": "0078_png.rf.b68560326a7985b3e956c3e21033bd50.jpg",
@@ -7253,8 +7253,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 342.45,
+      "latencia_end_to_end_ms": 343.95
     },
     {
       "image_id": "0079_png.rf.b06140890468574068f44b7f9ac22403.jpg",
@@ -7287,8 +7287,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.36
+      "latencia_model_only_ms": 337.46,
+      "latencia_end_to_end_ms": 340.33
     },
     {
       "image_id": "0080_png.rf.55f1fbdbf97af457be90c792d817002e.jpg",
@@ -7492,8 +7492,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.49
+      "latencia_model_only_ms": 336.83,
+      "latencia_end_to_end_ms": 340.53
     },
     {
       "image_id": "0081_png.rf.81356620017ddd88f6050eb50170f641.jpg",
@@ -7634,8 +7634,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.73,
-      "latencia_end_to_end_ms": 8.82
+      "latencia_model_only_ms": 372.08,
+      "latencia_end_to_end_ms": 374.07
     },
     {
       "image_id": "0082_png.rf.e4284a51e359cbfb1434a8cfe59be823.jpg",
@@ -7686,8 +7686,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 428.18,
+      "latencia_end_to_end_ms": 430.31
     },
     {
       "image_id": "0083_png.rf.1648f6a2512e62b6aea3ba9f04f94c7b.jpg",
@@ -7729,8 +7729,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.32
+      "latencia_model_only_ms": 354.1,
+      "latencia_end_to_end_ms": 357.61
     },
     {
       "image_id": "0084_png.rf.790b90ee950877b966c06003d7765689.jpg",
@@ -7781,8 +7781,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.85,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 339.43,
+      "latencia_end_to_end_ms": 341.81
     },
     {
       "image_id": "0085_png.rf.be1e304e8f56c4b865c307319d10dfb9.jpg",
@@ -7878,8 +7878,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.11,
-      "latencia_end_to_end_ms": 8.14
+      "latencia_model_only_ms": 342.13,
+      "latencia_end_to_end_ms": 345.65
     },
     {
       "image_id": "0086_png.rf.54d1da0d5be141128a1c6bcdca96c139.jpg",
@@ -8101,8 +8101,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 338.17,
+      "latencia_end_to_end_ms": 339.93
     },
     {
       "image_id": "0087_png.rf.d9447631e3cacc469c5474102ef7b28c.jpg",
@@ -8684,14 +8684,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 8.7
+      "latencia_model_only_ms": 340.43,
+      "latencia_end_to_end_ms": 342.53
     },
     {
       "image_id": "0088_png.rf.26bad349a474ea2d2e4dbd92e9f5f263.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.5
+      "latencia_model_only_ms": 338.83,
+      "latencia_end_to_end_ms": 341.97
     },
     {
       "image_id": "0089_png.rf.b639159a091ecddc1e30271db611813d.jpg",
@@ -8796,8 +8796,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.61,
-      "latencia_end_to_end_ms": 8.6
+      "latencia_model_only_ms": 344.09,
+      "latencia_end_to_end_ms": 345.45
     },
     {
       "image_id": "0090_png.rf.8ee8e6f98f2db84b8f93cf1eccb590a9.jpg",
@@ -8839,8 +8839,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.05,
-      "latencia_end_to_end_ms": 9.17
+      "latencia_model_only_ms": 333.07,
+      "latencia_end_to_end_ms": 335.9
     },
     {
       "image_id": "0091_png.rf.c640027682ae87668e8403a982ba304b.jpg",
@@ -8864,8 +8864,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.14,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 342.16,
+      "latencia_end_to_end_ms": 344.11
     },
     {
       "image_id": "0092_png.rf.6b230947fc40d9713d0e60a2df3da855.jpg",
@@ -8898,8 +8898,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.79,
-      "latencia_end_to_end_ms": 7.75
+      "latencia_model_only_ms": 340.88,
+      "latencia_end_to_end_ms": 345.25
     },
     {
       "image_id": "0093_png.rf.a26ed63b6ed9e7892d3bd17887b4733f.jpg",
@@ -8941,8 +8941,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.6
+      "latencia_model_only_ms": 339.72,
+      "latencia_end_to_end_ms": 341.15
     },
     {
       "image_id": "0094_png.rf.ecc23214dd6bc0876103b13dcd258aee.jpg",
@@ -8984,8 +8984,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 8.09
+      "latencia_model_only_ms": 340.06,
+      "latencia_end_to_end_ms": 341.97
     },
     {
       "image_id": "0095_png.rf.727e155653323e63ce0e6619afa91db0.jpg",
@@ -9180,8 +9180,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.65,
-      "latencia_end_to_end_ms": 7.68
+      "latencia_model_only_ms": 445.5,
+      "latencia_end_to_end_ms": 447.97
     },
     {
       "image_id": "0096_png.rf.cbadb441bec2fb9ba7303c4c08588dd2.jpg",
@@ -9259,8 +9259,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 389.62,
+      "latencia_end_to_end_ms": 393.1
     },
     {
       "image_id": "0097_png.rf.e1a9fb41729ab25921f30b4abb9e1531.jpg",
@@ -9374,8 +9374,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 348.65,
+      "latencia_end_to_end_ms": 350.83
     },
     {
       "image_id": "0098_png.rf.f1a57622c8a325949caefd8b9848f821.jpg",
@@ -9408,8 +9408,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.85
+      "latencia_model_only_ms": 345.44,
+      "latencia_end_to_end_ms": 347.05
     },
     {
       "image_id": "0099_png.rf.d402f2cb445c37386668edca47b7bb55.jpg",
@@ -9505,8 +9505,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.24
+      "latencia_model_only_ms": 350.89,
+      "latencia_end_to_end_ms": 352.54
     },
     {
       "image_id": "0100_png.rf.291b24eb8d064013e5a62f28a170c344.jpg",
@@ -9539,8 +9539,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.82,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 345.45,
+      "latencia_end_to_end_ms": 348.92
     },
     {
       "image_id": "0101_png.rf.2597ba103449bdb41ff2abdc30169620.jpg",
@@ -9600,8 +9600,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.5,
-      "latencia_end_to_end_ms": 8.49
+      "latencia_model_only_ms": 350.23,
+      "latencia_end_to_end_ms": 352.38
     },
     {
       "image_id": "0102_png.rf.7e928e2742aac558e38ba2b004367321.jpg",
@@ -9661,8 +9661,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 345.79,
+      "latencia_end_to_end_ms": 347.19
     },
     {
       "image_id": "0103_png.rf.f872c8e9273790dd1d263ea8306ab681.jpg",
@@ -9677,8 +9677,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.6,
-      "latencia_end_to_end_ms": 8.66
+      "latencia_model_only_ms": 348.65,
+      "latencia_end_to_end_ms": 350.09
     },
     {
       "image_id": "0104_png.rf.87de58f2839c95ebae064a85d682613c.jpg",
@@ -9756,8 +9756,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 345.56,
+      "latencia_end_to_end_ms": 347.14
     },
     {
       "image_id": "0105_png.rf.ced2360b6fe18147537b9eb9551e5fe2.jpg",
@@ -9817,8 +9817,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.94,
-      "latencia_end_to_end_ms": 7.9
+      "latencia_model_only_ms": 345.79,
+      "latencia_end_to_end_ms": 349.07
     },
     {
       "image_id": "0106_png.rf.119567f880a6c3586ff64e0de1fd6f91.jpg",
@@ -9932,8 +9932,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.86,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 344.1,
+      "latencia_end_to_end_ms": 345.2
     },
     {
       "image_id": "0107_png.rf.3ba6933879100d6a3f08182251e7b882.jpg",
@@ -9948,8 +9948,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.11,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 344.65,
+      "latencia_end_to_end_ms": 346.97
     },
     {
       "image_id": "0108_png.rf.9bf8cea959cf12b07d239ff3c920c1a1.jpg",
@@ -10027,8 +10027,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.98,
-      "latencia_end_to_end_ms": 7.89
+      "latencia_model_only_ms": 343.15,
+      "latencia_end_to_end_ms": 345.06
     },
     {
       "image_id": "0109_png.rf.81f5a4554ea149a43a5460cfb7c9d18b.jpg",
@@ -10043,8 +10043,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 355.83,
+      "latencia_end_to_end_ms": 359.57
     },
     {
       "image_id": "0110_png.rf.13dae6c6ce2d900b9d1e019dc124e52d.jpg",
@@ -10086,8 +10086,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 346.56,
+      "latencia_end_to_end_ms": 348.68
     },
     {
       "image_id": "0111_png.rf.1b823d783de3bbd1ddd0b4687f85defb.jpg",
@@ -10237,8 +10237,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.27,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 343.05,
+      "latencia_end_to_end_ms": 344.74
     },
     {
       "image_id": "0112_png.rf.2f6d0840f854187208337d6896cb32dd.jpg",
@@ -10334,8 +10334,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 344.28,
+      "latencia_end_to_end_ms": 345.9
     },
     {
       "image_id": "0113_png.rf.1381408778467c3960e5b4014febb5f3.jpg",
@@ -10413,8 +10413,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.98,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 346.3,
+      "latencia_end_to_end_ms": 349.75
     },
     {
       "image_id": "0114_png.rf.d587ff205f2af5ac398ccbcde9326c3b.jpg",
@@ -10465,8 +10465,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.82,
-      "latencia_end_to_end_ms": 8.84
+      "latencia_model_only_ms": 344.67,
+      "latencia_end_to_end_ms": 347.18
     },
     {
       "image_id": "0115_png.rf.7fd4d1398fc8274006dbf19cebea2402.jpg",
@@ -10481,8 +10481,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.14,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 346.58,
+      "latencia_end_to_end_ms": 348.16
     },
     {
       "image_id": "0116_png.rf.caa27a4db754e6129510481bd3b6d031.jpg",
@@ -10569,8 +10569,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.0,
-      "latencia_end_to_end_ms": 8.03
+      "latencia_model_only_ms": 345.44,
+      "latencia_end_to_end_ms": 348.63
     },
     {
       "image_id": "0117_png.rf.85f79b5eb7d13f7f91f710838f8757bb.jpg",
@@ -10594,8 +10594,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.64,
-      "latencia_end_to_end_ms": 8.67
+      "latencia_model_only_ms": 347.84,
+      "latencia_end_to_end_ms": 349.51
     },
     {
       "image_id": "0118_png.rf.cd90b3e119f44c2029134efae80a4342.jpg",
@@ -10646,8 +10646,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.06,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 346.95,
+      "latencia_end_to_end_ms": 351.26
     },
     {
       "image_id": "0119_png.rf.dc1bb5c0d952dd276aca45fb4ca2693d.jpg",
@@ -10761,8 +10761,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.92,
-      "latencia_end_to_end_ms": 7.81
+      "latencia_model_only_ms": 345.78,
+      "latencia_end_to_end_ms": 347.04
     },
     {
       "image_id": "0120_png.rf.941fea780b184269f9bc861f4c1900c9.jpg",
@@ -10777,8 +10777,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.08
+      "latencia_model_only_ms": 347.69,
+      "latencia_end_to_end_ms": 349.25
     },
     {
       "image_id": "0121_png.rf.62d07b07e46b540ecf8b8cbb40e9fd1b.jpg",
@@ -10811,8 +10811,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.91,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 348.33,
+      "latencia_end_to_end_ms": 349.82
     },
     {
       "image_id": "0122_png.rf.7b403a39466a16994d45207f23b51536.jpg",
@@ -10899,8 +10899,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.29
+      "latencia_model_only_ms": 348.08,
+      "latencia_end_to_end_ms": 350.09
     },
     {
       "image_id": "0123_png.rf.089ebd0e525e65fb90d70a0b8c59455d.jpg",
@@ -11014,8 +11014,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 348.63,
+      "latencia_end_to_end_ms": 351.11
     },
     {
       "image_id": "0124_png.rf.01e00310a296cd700c05777ce80193a7.jpg",
@@ -11129,8 +11129,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.01,
-      "latencia_end_to_end_ms": 8.17
+      "latencia_model_only_ms": 353.69,
+      "latencia_end_to_end_ms": 355.73
     },
     {
       "image_id": "0125_png.rf.530d5d2be2da686e5f227d552bdfc04b.jpg",
@@ -11415,8 +11415,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 347.58,
+      "latencia_end_to_end_ms": 348.98
     },
     {
       "image_id": "0126_png.rf.3b21573e01ab8dd1709cc6ea997e20b2.jpg",
@@ -11692,8 +11692,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.58,
-      "latencia_end_to_end_ms": 8.57
+      "latencia_model_only_ms": 348.09,
+      "latencia_end_to_end_ms": 350.74
     },
     {
       "image_id": "0127_png.rf.157481e167eb0c7cb3525eafbf851e77.jpg",
@@ -11762,8 +11762,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.45
+      "latencia_model_only_ms": 346.84,
+      "latencia_end_to_end_ms": 348.73
     },
     {
       "image_id": "0128_png.rf.8e3ed3494f5500d220b8788600be3d3e.jpg",
@@ -11787,8 +11787,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.31
+      "latencia_model_only_ms": 343.69,
+      "latencia_end_to_end_ms": 346.39
     },
     {
       "image_id": "0129_png.rf.45788c13fea6472434ba6587f9b26b3d.jpg",
@@ -11839,8 +11839,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 348.99,
+      "latencia_end_to_end_ms": 352.06
     },
     {
       "image_id": "0130_png.rf.fd0d89f6059f4b5197986103cebdd9d4.jpg",
@@ -11882,8 +11882,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.29,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 348.34,
+      "latencia_end_to_end_ms": 350.14
     },
     {
       "image_id": "0131_png.rf.a23c4eb0406ab705be250f1472904fc4.jpg",
@@ -11988,8 +11988,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.31
+      "latencia_model_only_ms": 357.92,
+      "latencia_end_to_end_ms": 361.65
     },
     {
       "image_id": "0132_png.rf.f4f393d4da00b87750ad3d342e14aae3.jpg",
@@ -12004,8 +12004,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 341.69,
+      "latencia_end_to_end_ms": 344.77
     },
     {
       "image_id": "0133_png.rf.ee6394229c838248ce4cbb2006900510.jpg",
@@ -12029,8 +12029,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.11,
-      "latencia_end_to_end_ms": 8.09
+      "latencia_model_only_ms": 344.15,
+      "latencia_end_to_end_ms": 345.42
     },
     {
       "image_id": "0134_png.rf.a38ebe03e4d93b117cc317d875b408c4.jpg",
@@ -12099,14 +12099,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 358.23,
+      "latencia_end_to_end_ms": 362.21
     },
     {
       "image_id": "0135_png.rf.5d336212f6fcf4aae6b7780ad0bd7685.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.83,
-      "latencia_end_to_end_ms": 7.78
+      "latencia_model_only_ms": 342.46,
+      "latencia_end_to_end_ms": 344.71
     },
     {
       "image_id": "0136_png.rf.f3a787a714ea644147fe3d88a00df05f.jpg",
@@ -12121,14 +12121,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.13,
-      "latencia_end_to_end_ms": 8.14
+      "latencia_model_only_ms": 344.61,
+      "latencia_end_to_end_ms": 347.98
     },
     {
       "image_id": "0137_png.rf.b1ec60b8129af28e5df2ca5f74c1a6cc.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.96,
-      "latencia_end_to_end_ms": 7.86
+      "latencia_model_only_ms": 351.06,
+      "latencia_end_to_end_ms": 353.81
     },
     {
       "image_id": "0138_png.rf.ee6824ca3e042e4d64a70f439dda760e.jpg",
@@ -12170,8 +12170,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.33,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 421.02,
+      "latencia_end_to_end_ms": 423.68
     },
     {
       "image_id": "0139_png.rf.c4af27793309ea72ae8e246f4ff42a8f.jpg",
@@ -12186,8 +12186,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 348.95,
+      "latencia_end_to_end_ms": 352.18
     },
     {
       "image_id": "0140_png.rf.6b1ae88d298357ea64f5015bcc174962.jpg",
@@ -12238,8 +12238,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.97,
-      "latencia_end_to_end_ms": 8.98
+      "latencia_model_only_ms": 345.79,
+      "latencia_end_to_end_ms": 347.91
     },
     {
       "image_id": "0141_png.rf.48a2c98f574a617f5d3b0baeaa20392d.jpg",
@@ -12254,8 +12254,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.75,
-      "latencia_end_to_end_ms": 8.9
+      "latencia_model_only_ms": 344.14,
+      "latencia_end_to_end_ms": 348.18
     },
     {
       "image_id": "0142_png.rf.179620534e72003d0bc3fec68e6fc5de.jpg",
@@ -12270,8 +12270,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.92,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 344.11,
+      "latencia_end_to_end_ms": 345.3
     },
     {
       "image_id": "0143_png.rf.8b99a8d04303a746c4122d8ab64c65c6.jpg",
@@ -12295,8 +12295,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.55
+      "latencia_model_only_ms": 357.5,
+      "latencia_end_to_end_ms": 360.48
     },
     {
       "image_id": "0144_png.rf.5d5be0b16f26aa552df0594f51c82fc4.jpg",
@@ -12356,14 +12356,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.2,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 344.44,
+      "latencia_end_to_end_ms": 345.68
     },
     {
       "image_id": "0145_png.rf.545c3476b04688abdfcabf3346f2cbbe.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.69
+      "latencia_model_only_ms": 339.39,
+      "latencia_end_to_end_ms": 341.93
     },
     {
       "image_id": "0146_png.rf.c61f60b17decb1b29b3ba37df4a1c528.jpg",
@@ -12468,8 +12468,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.41,
-      "latencia_end_to_end_ms": 8.4
+      "latencia_model_only_ms": 351.43,
+      "latencia_end_to_end_ms": 353.36
     },
     {
       "image_id": "0147_png.rf.4a27ec23459f820392006689c45e960d.jpg",
@@ -12484,8 +12484,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.65,
-      "latencia_end_to_end_ms": 8.77
+      "latencia_model_only_ms": 346.32,
+      "latencia_end_to_end_ms": 348.9
     },
     {
       "image_id": "0148_png.rf.03f57eb246df4f5c349e2493290f4b2f.jpg",
@@ -12653,8 +12653,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 345.73,
+      "latencia_end_to_end_ms": 347.66
     },
     {
       "image_id": "0149_png.rf.a3338025525c844f5e5e90a117b50614.jpg",
@@ -12669,8 +12669,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.99,
-      "latencia_end_to_end_ms": 9.26
+      "latencia_model_only_ms": 349.92,
+      "latencia_end_to_end_ms": 353.76
     },
     {
       "image_id": "0150_png.rf.815c02ddcb5b94edbcc8914acd582a49.jpg",
@@ -12712,8 +12712,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.16,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 345.79,
+      "latencia_end_to_end_ms": 348.2
     },
     {
       "image_id": "0151_png.rf.4bdfdd5e6c3e8e8b83bdb6cda9ec804a.jpg",
@@ -12737,8 +12737,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.8,
-      "latencia_end_to_end_ms": 9.18
+      "latencia_model_only_ms": 346.06,
+      "latencia_end_to_end_ms": 347.36
     },
     {
       "image_id": "0152_png.rf.895a69fe4cc2ad89a48a482daa4fd637.jpg",
@@ -12897,8 +12897,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.66,
-      "latencia_end_to_end_ms": 8.67
+      "latencia_model_only_ms": 345.65,
+      "latencia_end_to_end_ms": 347.01
     },
     {
       "image_id": "0153_png.rf.a39f655d6d6d2bcb17068d5c888d28b5.jpg",
@@ -12985,8 +12985,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.29,
-      "latencia_end_to_end_ms": 9.38
+      "latencia_model_only_ms": 345.26,
+      "latencia_end_to_end_ms": 348.02
     },
     {
       "image_id": "0154_png.rf.682eb2f42e1e8be551a30c397ec2b756.jpg",
@@ -13028,8 +13028,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 347.85,
+      "latencia_end_to_end_ms": 349.21
     },
     {
       "image_id": "0155_png.rf.5061d028bb29292ef9d54d3a971bbf7c.jpg",
@@ -13062,8 +13062,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.58
+      "latencia_model_only_ms": 343.98,
+      "latencia_end_to_end_ms": 345.68
     },
     {
       "image_id": "0156_png.rf.b202edf37c43cb8c72b366e261d06296.jpg",
@@ -13078,8 +13078,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.88,
-      "latencia_end_to_end_ms": 8.91
+      "latencia_model_only_ms": 346.04,
+      "latencia_end_to_end_ms": 349.63
     },
     {
       "image_id": "0157_png.rf.23fee278b40c25b6092656b4ee1e2c3c.jpg",
@@ -13094,8 +13094,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.14,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 345.75,
+      "latencia_end_to_end_ms": 348.87
     },
     {
       "image_id": "0158_png.rf.816354605a73cc51dae2adfd93993cd0.jpg",
@@ -13155,8 +13155,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.27,
-      "latencia_end_to_end_ms": 11.34
+      "latencia_model_only_ms": 350.69,
+      "latencia_end_to_end_ms": 353.96
     },
     {
       "image_id": "0159_png.rf.935ff63f5ec32eabad3fe5aa42895aad.jpg",
@@ -13207,8 +13207,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.97,
-      "latencia_end_to_end_ms": 9.12
+      "latencia_model_only_ms": 415.27,
+      "latencia_end_to_end_ms": 416.72
     },
     {
       "image_id": "0160_png.rf.4e4005260b2f30754765f9a47eec717b.jpg",
@@ -13223,8 +13223,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.25
+      "latencia_model_only_ms": 355.32,
+      "latencia_end_to_end_ms": 356.64
     },
     {
       "image_id": "0161_png.rf.7331c20d6e86999d3f501e368bceaec4.jpg",
@@ -13311,8 +13311,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.53
+      "latencia_model_only_ms": 348.43,
+      "latencia_end_to_end_ms": 353.04
     },
     {
       "image_id": "0162_png.rf.1aa1f17fdaa29a43cef07c224000183f.jpg",
@@ -13417,8 +13417,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.15,
-      "latencia_end_to_end_ms": 9.14
+      "latencia_model_only_ms": 352.12,
+      "latencia_end_to_end_ms": 355.17
     },
     {
       "image_id": "0163_png.rf.7495561d776fcb6d36b2a6305bad3d33.jpg",
@@ -13433,8 +13433,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 348.73,
+      "latencia_end_to_end_ms": 352.93
     },
     {
       "image_id": "0164_png.rf.22149e089236dad56091fb8bf05995cf.jpg",
@@ -13692,8 +13692,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.91,
-      "latencia_end_to_end_ms": 8.93
+      "latencia_model_only_ms": 349.1,
+      "latencia_end_to_end_ms": 353.03
     },
     {
       "image_id": "0165_png.rf.5ac7f9b35f26027a731dbfe5ea88fbe7.jpg",
@@ -13753,14 +13753,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.24,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 352.26,
+      "latencia_end_to_end_ms": 354.27
     },
     {
       "image_id": "0166_png.rf.291e046bc85509e3614996eb408f3f56.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.39,
-      "latencia_end_to_end_ms": 8.4
+      "latencia_model_only_ms": 349.51,
+      "latencia_end_to_end_ms": 352.79
     },
     {
       "image_id": "0167_png.rf.677966ae14d8c153f4e06133a7c3b7fd.jpg",
@@ -13838,8 +13838,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.94
+      "latencia_model_only_ms": 348.48,
+      "latencia_end_to_end_ms": 350.18
     },
     {
       "image_id": "0168_png.rf.b5ce2fcac22bb6d0201ee6b4baeb7b44.jpg",
@@ -13980,8 +13980,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.93,
-      "latencia_end_to_end_ms": 8.25
+      "latencia_model_only_ms": 348.06,
+      "latencia_end_to_end_ms": 350.84
     },
     {
       "image_id": "0169_png.rf.da1fead981b5361fbb824a6d261d6f02.jpg",
@@ -14140,8 +14140,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.87,
-      "latencia_end_to_end_ms": 9.26
+      "latencia_model_only_ms": 346.06,
+      "latencia_end_to_end_ms": 348.71
     },
     {
       "image_id": "0170_png.rf.78b9e8997265a206ebd006f42afe37d9.jpg",
@@ -14273,8 +14273,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 347.85,
+      "latencia_end_to_end_ms": 350.94
     },
     {
       "image_id": "0171_png.rf.a57b8512de3a899ef861dd2b1f76dcf6.jpg",
@@ -14442,8 +14442,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.76,
-      "latencia_end_to_end_ms": 8.8
+      "latencia_model_only_ms": 348.49,
+      "latencia_end_to_end_ms": 350.13
     },
     {
       "image_id": "0172_png.rf.9240c2b4f638627bf276494ab10a4b22.jpg",
@@ -14602,8 +14602,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.39
+      "latencia_model_only_ms": 346.98,
+      "latencia_end_to_end_ms": 349.2
     },
     {
       "image_id": "0173_png.rf.9f82fe712deb0b999e7c21e07c99b1fc.jpg",
@@ -14852,8 +14852,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 8.87
+      "latencia_model_only_ms": 347.19,
+      "latencia_end_to_end_ms": 348.38
     },
     {
       "image_id": "0174_png.rf.4839d3dde1c4f58fab4d555c5c5e9992.jpg",
@@ -15030,8 +15030,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.71
+      "latencia_model_only_ms": 349.23,
+      "latencia_end_to_end_ms": 350.66
     },
     {
       "image_id": "0175_png.rf.959fb5a03f7bdb5f6ac3c23be507b09e.jpg",
@@ -15118,8 +15118,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.16,
-      "latencia_end_to_end_ms": 9.15
+      "latencia_model_only_ms": 366.78,
+      "latencia_end_to_end_ms": 367.99
     },
     {
       "image_id": "0176_png.rf.1bec440efeda924b309bafcaa4ed4fa9.jpg",
@@ -15170,8 +15170,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.11,
-      "latencia_end_to_end_ms": 8.08
+      "latencia_model_only_ms": 353.54,
+      "latencia_end_to_end_ms": 354.93
     },
     {
       "image_id": "0177_png.rf.bef87b6645af9f251fd8604dce44adb2.jpg",
@@ -15420,8 +15420,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.48
+      "latencia_model_only_ms": 358.55,
+      "latencia_end_to_end_ms": 360.4
     },
     {
       "image_id": "0178_png.rf.6834210a6ae4558d0ce624e7c022122a.jpg",
@@ -15679,8 +15679,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.85,
-      "latencia_end_to_end_ms": 8.87
+      "latencia_model_only_ms": 397.26,
+      "latencia_end_to_end_ms": 398.74
     },
     {
       "image_id": "0179_png.rf.1f884ebbf0d7d41c8c0fcc41ba0f0a8a.jpg",
@@ -15722,8 +15722,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.77,
-      "latencia_end_to_end_ms": 9.71
+      "latencia_model_only_ms": 361.5,
+      "latencia_end_to_end_ms": 363.56
     },
     {
       "image_id": "0180_png.rf.772b5cd6b390d9ae0b4b6e892b26ce3f.jpg",
@@ -15765,8 +15765,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.83,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 355.16,
+      "latencia_end_to_end_ms": 356.63
     },
     {
       "image_id": "0181_png.rf.411dfd19f24a847e11cc7e4fe73b4a3c.jpg",
@@ -15799,8 +15799,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.24,
-      "latencia_end_to_end_ms": 8.31
+      "latencia_model_only_ms": 358.59,
+      "latencia_end_to_end_ms": 362.18
     },
     {
       "image_id": "0182_png.rf.604abdb14eaa5a9932c99f217040928b.jpg",
@@ -15905,8 +15905,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.5,
-      "latencia_end_to_end_ms": 9.66
+      "latencia_model_only_ms": 355.05,
+      "latencia_end_to_end_ms": 356.54
     },
     {
       "image_id": "0183_png.rf.fdf3205989294443e38b43b405c7f92b.jpg",
@@ -15939,8 +15939,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.57,
-      "latencia_end_to_end_ms": 8.61
+      "latencia_model_only_ms": 358.53,
+      "latencia_end_to_end_ms": 360.22
     },
     {
       "image_id": "0184_png.rf.2f14947ccfd7127e98810df19f892a04.jpg",
@@ -16009,8 +16009,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 359.84,
+      "latencia_end_to_end_ms": 361.5
     },
     {
       "image_id": "0185_png.rf.ffe4c505f1e0af993d96a7d22cc56292.jpg",
@@ -16097,8 +16097,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.77,
-      "latencia_end_to_end_ms": 8.72
+      "latencia_model_only_ms": 354.32,
+      "latencia_end_to_end_ms": 356.59
     },
     {
       "image_id": "0186_png.rf.ab85b8b772812f393b9f811d89341024.jpg",
@@ -16230,8 +16230,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.11,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 368.23,
+      "latencia_end_to_end_ms": 369.73
     },
     {
       "image_id": "0187_png.rf.e1389fa2610692f400e25b0761010ec5.jpg",
@@ -16273,8 +16273,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.78
+      "latencia_model_only_ms": 369.41,
+      "latencia_end_to_end_ms": 371.14
     },
     {
       "image_id": "0188_png.rf.cdda9b2810902fa007cff8078aced267.jpg",
@@ -16424,8 +16424,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.57
+      "latencia_model_only_ms": 353.97,
+      "latencia_end_to_end_ms": 356.07
     },
     {
       "image_id": "0189_png.rf.f4b9351f251baf37accefa8350e7b21f.jpg",
@@ -16809,8 +16809,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.03,
-      "latencia_end_to_end_ms": 9.2
+      "latencia_model_only_ms": 356.79,
+      "latencia_end_to_end_ms": 358.66
     },
     {
       "image_id": "0190_png.rf.e5ae0edb04d7799f13be2b85cea85766.jpg",
@@ -16843,8 +16843,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.8
+      "latencia_model_only_ms": 338.95,
+      "latencia_end_to_end_ms": 340.73
     },
     {
       "image_id": "0191_png.rf.9e3882632ed5db353c613ba764a88869.jpg",
@@ -16877,8 +16877,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.87,
-      "latencia_end_to_end_ms": 9.08
+      "latencia_model_only_ms": 348.42,
+      "latencia_end_to_end_ms": 350.25
     },
     {
       "image_id": "0192_png.rf.481b034b2bc2d6701653945ea26ad220.jpg",
@@ -16974,14 +16974,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.73,
-      "latencia_end_to_end_ms": 8.83
+      "latencia_model_only_ms": 342.36,
+      "latencia_end_to_end_ms": 343.96
     },
     {
       "image_id": "0193_png.rf.5f6597d6adfb300208913bbdda074906.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.62,
-      "latencia_end_to_end_ms": 7.55
+      "latencia_model_only_ms": 336.94,
+      "latencia_end_to_end_ms": 339.61
     },
     {
       "image_id": "0194_png.rf.e875867a8bd989fdbdc6cece7812f4b4.jpg",
@@ -17104,8 +17104,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 346.84,
+      "latencia_end_to_end_ms": 348.45
     },
     {
       "image_id": "0195_png.rf.fff609f41889ea446e626caab7c3db10.jpg",
@@ -17129,8 +17129,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.17
+      "latencia_model_only_ms": 341.69,
+      "latencia_end_to_end_ms": 343.98
     },
     {
       "image_id": "0196_png.rf.bb03a602690d8b48ba4ee3e8b2dfe73c.jpg",
@@ -17181,8 +17181,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.5,
-      "latencia_end_to_end_ms": 8.67
+      "latencia_model_only_ms": 337.33,
+      "latencia_end_to_end_ms": 339.25
     },
     {
       "image_id": "0197_png.rf.e346d3ce0ba31729e4f59be245f2dccd.jpg",
@@ -17197,8 +17197,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.73
+      "latencia_model_only_ms": 338.87,
+      "latencia_end_to_end_ms": 340.39
     },
     {
       "image_id": "0198_png.rf.06a66986eabcbf3f740f9ac694bf28a8.jpg",
@@ -17240,8 +17240,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 335.48,
+      "latencia_end_to_end_ms": 336.9
     },
     {
       "image_id": "0199_png.rf.270516498a511c804a4badd547ca15e1.jpg",
@@ -17418,8 +17418,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 344.99,
+      "latencia_end_to_end_ms": 346.98
     },
     {
       "image_id": "0200_png.rf.4a6b17b3608c6c3e84aadfcd2d553a3e.jpg",
@@ -17560,8 +17560,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.33,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 339.19,
+      "latencia_end_to_end_ms": 341.04
     },
     {
       "image_id": "0201_png.rf.8929b6d8a615e74ca698935208f8ec70.jpg",
@@ -17594,8 +17594,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 356.57,
+      "latencia_end_to_end_ms": 358.29
     },
     {
       "image_id": "0202_png.rf.6b362cfac5eff8d34374c37798348609.jpg",
@@ -17718,8 +17718,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.46,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 354.53,
+      "latencia_end_to_end_ms": 356.53
     },
     {
       "image_id": "0203_png.rf.8c0b827fda81eeb18b5072f6cff8c039.jpg",
@@ -17842,8 +17842,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 353.78,
+      "latencia_end_to_end_ms": 356.9
     },
     {
       "image_id": "0204_png.rf.581cac0c222179b9792a198a2b43e78f.jpg",
@@ -17894,8 +17894,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.13,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 352.73,
+      "latencia_end_to_end_ms": 354.29
     },
     {
       "image_id": "0205_png.rf.1f4a7c069b83aca849757529b1e5f93c.jpg",
@@ -18009,8 +18009,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.14
+      "latencia_model_only_ms": 349.05,
+      "latencia_end_to_end_ms": 351.46
     },
     {
       "image_id": "0206_png.rf.06898fa66dcb417429f7ca852d90dc1e.jpg",
@@ -18061,8 +18061,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 10.84,
-      "latencia_end_to_end_ms": 12.08
+      "latencia_model_only_ms": 344.63,
+      "latencia_end_to_end_ms": 346.42
     },
     {
       "image_id": "0207_png.rf.74e05e18137df0a75149d91bf8b2c176.jpg",
@@ -18104,8 +18104,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 10.06,
-      "latencia_end_to_end_ms": 11.78
+      "latencia_model_only_ms": 342.29,
+      "latencia_end_to_end_ms": 344.48
     },
     {
       "image_id": "0208_png.rf.30b240108b4f83308418271a4112f888.jpg",
@@ -18192,8 +18192,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 349.59,
+      "latencia_end_to_end_ms": 351.23
     },
     {
       "image_id": "0209_png.rf.a9fff8dbb89a4a40f1f5552d98c1097d.jpg",
@@ -18253,8 +18253,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.77,
-      "latencia_end_to_end_ms": 9.91
+      "latencia_model_only_ms": 348.77,
+      "latencia_end_to_end_ms": 350.5
     },
     {
       "image_id": "0210_png.rf.98eea9860362c51a7622dc6b7fc62da0.jpg",
@@ -18269,8 +18269,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.29,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 350.48,
+      "latencia_end_to_end_ms": 352.63
     },
     {
       "image_id": "0211_png.rf.eaeebcdfeb760475cda6349a2cb0f8e3.jpg",
@@ -18285,8 +18285,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 7.97
+      "latencia_model_only_ms": 349.74,
+      "latencia_end_to_end_ms": 351.15
     },
     {
       "image_id": "0212_png.rf.15e006e6b58a1a9a7962e119fabac94e.jpg",
@@ -18310,8 +18310,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.02,
-      "latencia_end_to_end_ms": 9.27
+      "latencia_model_only_ms": 349.76,
+      "latencia_end_to_end_ms": 351.76
     },
     {
       "image_id": "0213_png.rf.3690ffd502837bfa3c1e4a5536c1d51d.jpg",
@@ -18785,8 +18785,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 349.77,
+      "latencia_end_to_end_ms": 351.51
     },
     {
       "image_id": "0214_png.rf.a9cf419315146eb510ddc99ff0f9bc32.jpg",
@@ -18846,8 +18846,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.77,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 347.68,
+      "latencia_end_to_end_ms": 349.41
     },
     {
       "image_id": "0215_png.rf.6b2d04d7e91d7462e7175b7af955eb49.jpg",
@@ -18889,8 +18889,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.9,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 381.43,
+      "latencia_end_to_end_ms": 383.27
     },
     {
       "image_id": "0216_png.rf.9b40c4061547f2a9be4276fd36e6c4cf.jpg",
@@ -18941,8 +18941,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.87,
-      "latencia_end_to_end_ms": 8.91
+      "latencia_model_only_ms": 350.21,
+      "latencia_end_to_end_ms": 352.24
     },
     {
       "image_id": "0217_png.rf.20ba855658b07acbefe7e1f90961c164.jpg",
@@ -19056,14 +19056,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.4
+      "latencia_model_only_ms": 349.04,
+      "latencia_end_to_end_ms": 352.52
     },
     {
       "image_id": "0218_png.rf.0190c6991fe15a2fc3c4a86225c4c7c9.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.82,
-      "latencia_end_to_end_ms": 7.95
+      "latencia_model_only_ms": 350.01,
+      "latencia_end_to_end_ms": 351.86
     },
     {
       "image_id": "0219_png.rf.d379350307e6a9a9fe267ba81a111296.jpg",
@@ -19087,8 +19087,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.86,
-      "latencia_end_to_end_ms": 8.87
+      "latencia_model_only_ms": 351.85,
+      "latencia_end_to_end_ms": 353.75
     },
     {
       "image_id": "0220_png.rf.0a42cb34a3fc222cda9a42f4659c3624.jpg",
@@ -19427,8 +19427,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.46,
-      "latencia_end_to_end_ms": 8.64
+      "latencia_model_only_ms": 349.46,
+      "latencia_end_to_end_ms": 351.51
     },
     {
       "image_id": "0221_png.rf.45ab7c98c78fb383517932bcf4c0155c.jpg",
@@ -19938,8 +19938,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.34,
-      "latencia_end_to_end_ms": 8.65
+      "latencia_model_only_ms": 348.99,
+      "latencia_end_to_end_ms": 351.23
     },
     {
       "image_id": "0222_png.rf.8614e5e7c638264064f962a1cf973913.jpg",
@@ -20377,8 +20377,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.45
+      "latencia_model_only_ms": 349.97,
+      "latencia_end_to_end_ms": 351.87
     },
     {
       "image_id": "0223_png.rf.036c4724b11f42fd73df5e383e4de25e.jpg",
@@ -21095,8 +21095,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.25,
-      "latencia_end_to_end_ms": 9.34
+      "latencia_model_only_ms": 355.04,
+      "latencia_end_to_end_ms": 357.19
     },
     {
       "image_id": "0224_png.rf.fbcd26894116b1c45a469a0af59a952d.jpg",
@@ -21345,8 +21345,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.13,
-      "latencia_end_to_end_ms": 9.27
+      "latencia_model_only_ms": 383.81,
+      "latencia_end_to_end_ms": 385.96
     },
     {
       "image_id": "0225_png.rf.644361acadf8b96e0df60cd738b36c83.jpg",
@@ -21496,8 +21496,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.61
+      "latencia_model_only_ms": 352.29,
+      "latencia_end_to_end_ms": 354.17
     },
     {
       "image_id": "0226_png.rf.d1b94a2499f78613c5ce7ea78e3a3170.jpg",
@@ -21584,8 +21584,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.99,
-      "latencia_end_to_end_ms": 9.06
+      "latencia_model_only_ms": 349.43,
+      "latencia_end_to_end_ms": 351.55
     },
     {
       "image_id": "0227_png.rf.2de556dec872cf541b40f9dec82ff5f7.jpg",
@@ -21834,8 +21834,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.81,
-      "latencia_end_to_end_ms": 8.97
+      "latencia_model_only_ms": 352.03,
+      "latencia_end_to_end_ms": 354.12
     },
     {
       "image_id": "0228_png.rf.b47699a3c3ea116a058efde2a160510c.jpg",
@@ -21877,8 +21877,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.37,
-      "latencia_end_to_end_ms": 9.47
+      "latencia_model_only_ms": 354.27,
+      "latencia_end_to_end_ms": 355.6
     },
     {
       "image_id": "0229_png.rf.89957686e47bae9c50ae1de871f988c3.jpg",
@@ -22073,8 +22073,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.09
+      "latencia_model_only_ms": 366.03,
+      "latencia_end_to_end_ms": 368.24
     },
     {
       "image_id": "0230_png.rf.010bb6669e32c7ff83929594bfd02b37.jpg",
@@ -22260,8 +22260,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.49,
-      "latencia_end_to_end_ms": 8.79
+      "latencia_model_only_ms": 358.41,
+      "latencia_end_to_end_ms": 360.46
     },
     {
       "image_id": "0231_png.rf.7bb4b5bde031d669a955e98798be4009.jpg",
@@ -22393,8 +22393,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 367.77,
+      "latencia_end_to_end_ms": 369.45
     },
     {
       "image_id": "0232_png.rf.1dec899806f4f3bc12021ab9df5a04db.jpg",
@@ -22508,8 +22508,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.06,
-      "latencia_end_to_end_ms": 9.36
+      "latencia_model_only_ms": 359.44,
+      "latencia_end_to_end_ms": 361.48
     },
     {
       "image_id": "0233_png.rf.811c67257c366d8ac484c8036125a936.jpg",
@@ -22668,8 +22668,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.79,
-      "latencia_end_to_end_ms": 9.16
+      "latencia_model_only_ms": 357.85,
+      "latencia_end_to_end_ms": 360.3
     },
     {
       "image_id": "0234_png.rf.934499446687e21e5caa476e4eac6379.jpg",
@@ -22891,8 +22891,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.33,
-      "latencia_end_to_end_ms": 9.6
+      "latencia_model_only_ms": 374.88,
+      "latencia_end_to_end_ms": 377.04
     },
     {
       "image_id": "0235_png.rf.476432a347b9f3a26795b5cae5b22135.jpg",
@@ -23060,8 +23060,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 434.31,
+      "latencia_end_to_end_ms": 436.81
     },
     {
       "image_id": "0236_png.rf.f2d306d9f21d4ff9b6fa13b79d69f753.jpg",
@@ -23337,8 +23337,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.87,
-      "latencia_end_to_end_ms": 9.0
+      "latencia_model_only_ms": 377.54,
+      "latencia_end_to_end_ms": 379.65
     },
     {
       "image_id": "0237_png.rf.34ed1b9e165555aa72757364019787de.jpg",
@@ -23443,8 +23443,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.62,
-      "latencia_end_to_end_ms": 8.75
+      "latencia_model_only_ms": 373.84,
+      "latencia_end_to_end_ms": 377.06
     },
     {
       "image_id": "0238_png.rf.553fcc703600bb11ffa2b47c704dc9b1.jpg",
@@ -23495,8 +23495,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 416.39,
+      "latencia_end_to_end_ms": 418.17
     },
     {
       "image_id": "0239_png.rf.2f30fbbd1cc928c600944faa9ec34468.jpg",
@@ -23835,8 +23835,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.68
+      "latencia_model_only_ms": 430.21,
+      "latencia_end_to_end_ms": 432.07
     },
     {
       "image_id": "0240_png.rf.7b41c6cb615c1f2de533fe513164d9a4.jpg",
@@ -24031,8 +24031,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.84,
-      "latencia_end_to_end_ms": 8.86
+      "latencia_model_only_ms": 384.78,
+      "latencia_end_to_end_ms": 386.52
     },
     {
       "image_id": "0241_png.rf.a7c97af9453783c84124bc666033854a.jpg",
@@ -24056,8 +24056,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.26
+      "latencia_model_only_ms": 363.34,
+      "latencia_end_to_end_ms": 365.99
     },
     {
       "image_id": "0242_png.rf.869a8e77a3ea96e0071b3cde51a8c964.jpg",
@@ -24117,8 +24117,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.73
+      "latencia_model_only_ms": 374.55,
+      "latencia_end_to_end_ms": 376.75
     },
     {
       "image_id": "0243_png.rf.4410d591a32398e42371525067205180.jpg",
@@ -24142,8 +24142,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.18,
-      "latencia_end_to_end_ms": 9.44
+      "latencia_model_only_ms": 725.99,
+      "latencia_end_to_end_ms": 728.16
     },
     {
       "image_id": "0244_png.rf.01b19633a1b1aa991d9fe5de8a4f3bf6.jpg",
@@ -24266,8 +24266,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.61,
-      "latencia_end_to_end_ms": 8.71
+      "latencia_model_only_ms": 351.05,
+      "latencia_end_to_end_ms": 355.01
     },
     {
       "image_id": "0245_png.rf.78e34ff46e64deedca08ff23df8edce0.jpg",
@@ -24291,8 +24291,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.26,
-      "latencia_end_to_end_ms": 9.33
+      "latencia_model_only_ms": 346.02,
+      "latencia_end_to_end_ms": 347.49
     },
     {
       "image_id": "0246_png.rf.4984916d02f982be1236f6d028565e3d.jpg",
@@ -24334,8 +24334,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.87,
-      "latencia_end_to_end_ms": 7.99
+      "latencia_model_only_ms": 345.44,
+      "latencia_end_to_end_ms": 346.92
     },
     {
       "image_id": "0247_png.rf.745e17d7e977178e55cf1df2a433ceef.jpg",
@@ -24377,8 +24377,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.96
+      "latencia_model_only_ms": 394.08,
+      "latencia_end_to_end_ms": 395.43
     },
     {
       "image_id": "0248_png.rf.a04b4002734ee6a10dd8fb15fe0dc1be.jpg",
@@ -24456,8 +24456,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.97,
-      "latencia_end_to_end_ms": 9.39
+      "latencia_model_only_ms": 423.36,
+      "latencia_end_to_end_ms": 425.58
     },
     {
       "image_id": "0249_png.rf.fa7075b90a183765c82ea7d88c0568ea.jpg",
@@ -24472,8 +24472,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.5,
-      "latencia_end_to_end_ms": 8.54
+      "latencia_model_only_ms": 369.68,
+      "latencia_end_to_end_ms": 371.22
     },
     {
       "image_id": "0250_png.rf.c2504ba69a7aec436dfe64cde27e4fbb.jpg",
@@ -24533,8 +24533,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.41,
-      "latencia_end_to_end_ms": 8.35
+      "latencia_model_only_ms": 382.37,
+      "latencia_end_to_end_ms": 384.35
     },
     {
       "image_id": "0251_png.rf.0077b4c8a824e7d13b4561c5a9b32047.jpg",
@@ -24549,8 +24549,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.2,
-      "latencia_end_to_end_ms": 8.14
+      "latencia_model_only_ms": 429.28,
+      "latencia_end_to_end_ms": 430.5
     },
     {
       "image_id": "0252_png.rf.2d97dea46850f73e545e3048eadcec06.jpg",
@@ -24700,8 +24700,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.51
+      "latencia_model_only_ms": 412.33,
+      "latencia_end_to_end_ms": 414.06
     },
     {
       "image_id": "0253_png.rf.0950cd2c4e51245f576b1f4294b6f136.jpg",
@@ -24815,8 +24815,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.51,
-      "latencia_end_to_end_ms": 9.58
+      "latencia_model_only_ms": 365.84,
+      "latencia_end_to_end_ms": 367.61
     },
     {
       "image_id": "0255_png.rf.608e426612f4d33be78f65f5e1ecf6af.jpg",
@@ -24885,8 +24885,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.73,
-      "latencia_end_to_end_ms": 8.87
+      "latencia_model_only_ms": 420.97,
+      "latencia_end_to_end_ms": 422.82
     },
     {
       "image_id": "0256_png.rf.db3ab244545b4e4c5c5eb066a172d02c.jpg",
@@ -24919,8 +24919,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.17,
-      "latencia_end_to_end_ms": 9.2
+      "latencia_model_only_ms": 430.67,
+      "latencia_end_to_end_ms": 432.37
     },
     {
       "image_id": "0258_png.rf.824ff166bfc6a4b265facd951189cc86.jpg",
@@ -25052,8 +25052,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.38,
-      "latencia_end_to_end_ms": 9.63
+      "latencia_model_only_ms": 393.48,
+      "latencia_end_to_end_ms": 395.29
     },
     {
       "image_id": "0259_png.rf.1fc0e324960c998a42c03ed8d8ed98b3.jpg",
@@ -25077,8 +25077,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.04,
-      "latencia_end_to_end_ms": 9.02
+      "latencia_model_only_ms": 389.68,
+      "latencia_end_to_end_ms": 391.42
     },
     {
       "image_id": "0260_png.rf.864dffaa8cbc06cc618997689b0168f6.jpg",
@@ -25129,8 +25129,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.21,
-      "latencia_end_to_end_ms": 9.6
+      "latencia_model_only_ms": 412.8,
+      "latencia_end_to_end_ms": 414.46
     },
     {
       "image_id": "0261_png.rf.7ad9f3a6e0f18f3266f760cb44f43eda.jpg",
@@ -25235,8 +25235,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.55
+      "latencia_model_only_ms": 356.32,
+      "latencia_end_to_end_ms": 357.87
     },
     {
       "image_id": "0262_png.rf.f63d896950cf9c75348d83db53042c40.jpg",
@@ -25260,8 +25260,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 350.94,
+      "latencia_end_to_end_ms": 352.46
     },
     {
       "image_id": "0263_png.rf.95f3e904beda3258ec1d71fd5bde7c3b.jpg",
@@ -25294,8 +25294,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.23
+      "latencia_model_only_ms": 358.56,
+      "latencia_end_to_end_ms": 359.98
     },
     {
       "image_id": "0264_png.rf.b6fd1d4975da93dd2d93be9516aec79e.jpg",
@@ -25409,8 +25409,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 365.13,
+      "latencia_end_to_end_ms": 367.2
     },
     {
       "image_id": "0265_png.rf.faae52153253220f3aefa6e57655b931.jpg",
@@ -25470,8 +25470,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.7,
-      "latencia_end_to_end_ms": 8.7
+      "latencia_model_only_ms": 529.39,
+      "latencia_end_to_end_ms": 531.05
     },
     {
       "image_id": "0266_png.rf.efa3791e43caa11d6b320082af79d56b.jpg",
@@ -25504,8 +25504,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.0,
-      "latencia_end_to_end_ms": 9.02
+      "latencia_model_only_ms": 393.27,
+      "latencia_end_to_end_ms": 394.37
     },
     {
       "image_id": "0267_png.rf.df31c3c408a0c58f6fd05e901438dc58.jpg",
@@ -25547,8 +25547,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.28
+      "latencia_model_only_ms": 372.11,
+      "latencia_end_to_end_ms": 373.31
     },
     {
       "image_id": "0268_png.rf.4ef1a3b642c25a7d36b03458f38ba902.jpg",
@@ -25581,8 +25581,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.9,
-      "latencia_end_to_end_ms": 8.78
+      "latencia_model_only_ms": 339.65,
+      "latencia_end_to_end_ms": 340.54
     },
     {
       "image_id": "0269_png.rf.35caf2d0818a4e6bdc25f14da682b567.jpg",
@@ -25705,8 +25705,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.01
+      "latencia_model_only_ms": 383.65,
+      "latencia_end_to_end_ms": 384.79
     },
     {
       "image_id": "0270_png.rf.d052f1f2a26009ee3bab9ea5b463ad99.jpg",
@@ -25766,8 +25766,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.62,
-      "latencia_end_to_end_ms": 8.46
+      "latencia_model_only_ms": 376.97,
+      "latencia_end_to_end_ms": 378.97
     },
     {
       "image_id": "0271_png.rf.ce19797da6bdfeaf2018a45ef05ddf63.jpg",
@@ -25845,8 +25845,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.57
+      "latencia_model_only_ms": 396.42,
+      "latencia_end_to_end_ms": 397.77
     },
     {
       "image_id": "0272_png.rf.4828ef9386aa5a88c3cbf51fd8ba1a13.jpg",
@@ -25915,8 +25915,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.29
+      "latencia_model_only_ms": 399.92,
+      "latencia_end_to_end_ms": 402.07
     },
     {
       "image_id": "0273_png.rf.43c8c8b7423205719fdf408be85c0a52.jpg",
@@ -26066,8 +26066,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.32,
-      "latencia_end_to_end_ms": 9.31
+      "latencia_model_only_ms": 381.09,
+      "latencia_end_to_end_ms": 382.52
     },
     {
       "image_id": "0274_png.rf.075ad816405de67b1d4c3843337110ff.jpg",
@@ -26127,8 +26127,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.44,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 397.42,
+      "latencia_end_to_end_ms": 399.0
     },
     {
       "image_id": "0275_png.rf.3d5c9fc7b4ba2b8a97a6f5789e2d7286.jpg",
@@ -26251,8 +26251,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.61,
-      "latencia_end_to_end_ms": 8.63
+      "latencia_model_only_ms": 367.62,
+      "latencia_end_to_end_ms": 369.71
     },
     {
       "image_id": "0276_png.rf.6bb958a6162d4e796e4396fd9e06940c.jpg",
@@ -26411,8 +26411,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 358.51,
+      "latencia_end_to_end_ms": 359.71
     },
     {
       "image_id": "0277_png.rf.cc79e94c1981c2434bc23502116fb911.jpg",
@@ -26499,8 +26499,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.89,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 506.81,
+      "latencia_end_to_end_ms": 508.73
     },
     {
       "image_id": "0278_png.rf.76753f605a88e680d8f4469ccee1b9d5.jpg",
@@ -26605,8 +26605,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.6
+      "latencia_model_only_ms": 392.42,
+      "latencia_end_to_end_ms": 393.76
     },
     {
       "image_id": "0279_png.rf.46bd102a975c877c5005141758f7c3ff.jpg",
@@ -26630,8 +26630,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 8.22
+      "latencia_model_only_ms": 353.3,
+      "latencia_end_to_end_ms": 355.43
     },
     {
       "image_id": "0280_png.rf.e7736c1287b4d933f7233b2dec9410c3.jpg",
@@ -26682,8 +26682,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.58,
-      "latencia_end_to_end_ms": 8.88
+      "latencia_model_only_ms": 371.61,
+      "latencia_end_to_end_ms": 374.43
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-185812_png.rf.34175ee5ff67f3a0e3f27361e9a6d737.jpg",
@@ -26761,8 +26761,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.29
+      "latencia_model_only_ms": 382.12,
+      "latencia_end_to_end_ms": 383.88
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190106_png.rf.6a3bbed09226b5cfe028a70d3e92cfac.jpg",
@@ -26822,8 +26822,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 354.11,
+      "latencia_end_to_end_ms": 355.52
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190208_png.rf.115d63e27edf82202ab91b19e2bd077e.jpg",
@@ -26856,8 +26856,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.78,
-      "latencia_end_to_end_ms": 8.65
+      "latencia_model_only_ms": 350.78,
+      "latencia_end_to_end_ms": 352.03
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190304_png.rf.c01f9cec0135ea02811215dfeeb501fd.jpg",
@@ -26953,8 +26953,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.14,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 350.11,
+      "latencia_end_to_end_ms": 351.95
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190358_png.rf.cd1b9134657cbc71a10766ace3021944.jpg",
@@ -26969,14 +26969,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.0,
-      "latencia_end_to_end_ms": 7.86
+      "latencia_model_only_ms": 352.22,
+      "latencia_end_to_end_ms": 353.21
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190414_png.rf.2211c8d0772298f07e39c09c851779cb.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.68
+      "latencia_model_only_ms": 350.16,
+      "latencia_end_to_end_ms": 351.47
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190423_png.rf.d4be580c6176bf6f9177b57c08e233fb.jpg",
@@ -26991,8 +26991,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.97,
-      "latencia_end_to_end_ms": 7.97
+      "latencia_model_only_ms": 352.02,
+      "latencia_end_to_end_ms": 353.15
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190449_png.rf.2ec6c062e234f006708b7ab09fdf8b68.jpg",
@@ -27016,8 +27016,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.82,
-      "latencia_end_to_end_ms": 7.63
+      "latencia_model_only_ms": 351.53,
+      "latencia_end_to_end_ms": 352.48
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190528_png.rf.13f173cbcfaabadbd68e13134579bc54.jpg",
@@ -27050,14 +27050,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.53,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 366.62,
+      "latencia_end_to_end_ms": 367.92
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190740_png.rf.144e50a73e34ebdd8845fd6e67667d7b.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.7,
-      "latencia_end_to_end_ms": 7.54
+      "latencia_model_only_ms": 487.73,
+      "latencia_end_to_end_ms": 488.97
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190917_png.rf.e0d66be7af6bdc4087a7d9caa8abaafe.jpg",
@@ -27072,8 +27072,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.95,
-      "latencia_end_to_end_ms": 7.88
+      "latencia_model_only_ms": 402.79,
+      "latencia_end_to_end_ms": 404.93
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-190927_png.rf.8a743778ffcdee2382ab98e1e1e4ba2c.jpg",
@@ -27088,14 +27088,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.23
+      "latencia_model_only_ms": 359.51,
+      "latencia_end_to_end_ms": 360.99
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191033_png.rf.813b12d7fe21b467b802f6b6f477acd1.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.94,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 384.56,
+      "latencia_end_to_end_ms": 386.22
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191455_png.rf.26618fae7fbb60bc06f9ac58f05605b0.jpg",
@@ -27119,8 +27119,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.02
+      "latencia_model_only_ms": 370.02,
+      "latencia_end_to_end_ms": 371.2
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191542_png.rf.2151bfd31219349b80691fa81a507a25.jpg",
@@ -27135,8 +27135,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.85,
-      "latencia_end_to_end_ms": 7.68
+      "latencia_model_only_ms": 405.77,
+      "latencia_end_to_end_ms": 406.86
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191747_png.rf.da48eb5515bc52d84ce64f4bd050ae65.jpg",
@@ -27187,20 +27187,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.57,
-      "latencia_end_to_end_ms": 8.78
+      "latencia_model_only_ms": 373.92,
+      "latencia_end_to_end_ms": 375.35
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191807_png.rf.8dcf201b463494ffc895f832977a77f4.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.67,
-      "latencia_end_to_end_ms": 7.6
+      "latencia_model_only_ms": 360.39,
+      "latencia_end_to_end_ms": 361.54
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-191954_png.rf.42e84cc2727fdba8139f5ed34eaaa48c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.52,
-      "latencia_end_to_end_ms": 7.38
+      "latencia_model_only_ms": 353.09,
+      "latencia_end_to_end_ms": 354.2
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192137_png.rf.cae652f76778ada5f3e8ccffcb0c73d2.jpg",
@@ -27233,8 +27233,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.78,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 356.93,
+      "latencia_end_to_end_ms": 358.56
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192245_png.rf.1ba7ce2ba07f1beffd2344e3df39f572.jpg",
@@ -27276,14 +27276,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.21,
-      "latencia_end_to_end_ms": 8.13
+      "latencia_model_only_ms": 388.35,
+      "latencia_end_to_end_ms": 389.47
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192258_png.rf.414fe31cecf6750b6aee4d6b379994d5.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.74,
-      "latencia_end_to_end_ms": 7.6
+      "latencia_model_only_ms": 658.29,
+      "latencia_end_to_end_ms": 661.96
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192658_png.rf.a612f0a78e146d7c5fa8143724127594.jpg",
@@ -27298,14 +27298,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.22
+      "latencia_model_only_ms": 706.81,
+      "latencia_end_to_end_ms": 708.04
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192814_png.rf.7b95f043e3839a29c8a7d2f09b66b827.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.18,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 674.7,
+      "latencia_end_to_end_ms": 675.89
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192859_png.rf.9fa087e3dd38965b671c3f27c52d422a.jpg",
@@ -27320,8 +27320,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 7.86
+      "latencia_model_only_ms": 494.27,
+      "latencia_end_to_end_ms": 495.75
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-192918_png.rf.5c18a3af2243e281d5d0453ecc0820cc.jpg",
@@ -27345,8 +27345,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 629.45,
+      "latencia_end_to_end_ms": 630.89
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193049_png.rf.f477c1f3a899087006cce3c5d1eb644e.jpg",
@@ -27379,8 +27379,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.58,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 431.89,
+      "latencia_end_to_end_ms": 433.1
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193359_png.rf.d74e15890ee1661bb0286f1ca05c8ed4.jpg",
@@ -27404,8 +27404,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.03
+      "latencia_model_only_ms": 372.79,
+      "latencia_end_to_end_ms": 374.65
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193421_png.rf.4853ac954f7682ce655672fc8c7d8113.jpg",
@@ -27447,8 +27447,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.29,
-      "latencia_end_to_end_ms": 8.18
+      "latencia_model_only_ms": 344.95,
+      "latencia_end_to_end_ms": 346.31
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193501_png.rf.f419a0f762edc35440eec13ad5898c4a.jpg",
@@ -27490,8 +27490,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.4,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 344.02,
+      "latencia_end_to_end_ms": 345.05
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193520_png.rf.23ed96ebf1fb7c5fba0e935512259f2a.jpg",
@@ -27515,8 +27515,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.38,
-      "latencia_end_to_end_ms": 8.36
+      "latencia_model_only_ms": 345.38,
+      "latencia_end_to_end_ms": 346.37
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193553_png.rf.fb4765f4ee7c9d9908e71cbdd4160410.jpg",
@@ -27558,8 +27558,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.92,
-      "latencia_end_to_end_ms": 8.83
+      "latencia_model_only_ms": 358.65,
+      "latencia_end_to_end_ms": 360.48
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-193745_png.rf.9fa2ceb326549002fc2e5133e1cc314f.jpg",
@@ -27583,20 +27583,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.16,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 462.97,
+      "latencia_end_to_end_ms": 464.1
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-200700_png.rf.19c8219c1f364ac6dc69ab4a767c8899.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.67,
-      "latencia_end_to_end_ms": 7.6
+      "latencia_model_only_ms": 417.81,
+      "latencia_end_to_end_ms": 419.74
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201009_png.rf.9fa00431d19d35b30c8332ed3a70a79c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.57,
-      "latencia_end_to_end_ms": 7.4
+      "latencia_model_only_ms": 362.74,
+      "latencia_end_to_end_ms": 363.78
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201156_png.rf.795ca6dffc1be4cc1115052023734b06.jpg",
@@ -27629,8 +27629,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.54
+      "latencia_model_only_ms": 348.79,
+      "latencia_end_to_end_ms": 350.04
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201216_png.rf.9c0c0955428be9f37038addc7b372eb0.jpg",
@@ -27681,8 +27681,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.98,
-      "latencia_end_to_end_ms": 7.84
+      "latencia_model_only_ms": 365.3,
+      "latencia_end_to_end_ms": 366.82
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201231_png.rf.c304207b94940d0911a7bcff8133627a.jpg",
@@ -27715,8 +27715,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.58,
-      "latencia_end_to_end_ms": 8.56
+      "latencia_model_only_ms": 376.15,
+      "latencia_end_to_end_ms": 377.55
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201255_png.rf.007fe5f986624c69956ac93aa62bf4ed.jpg",
@@ -27731,8 +27731,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.93,
-      "latencia_end_to_end_ms": 8.77
+      "latencia_model_only_ms": 405.19,
+      "latencia_end_to_end_ms": 406.71
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201318_png.rf.e3d71ec089418f91243419da10389a95.jpg",
@@ -27747,8 +27747,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 381.09,
+      "latencia_end_to_end_ms": 382.2
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201339_png.rf.8e4bebfca0b4f0816d5ab3244ecb665b.jpg",
@@ -27790,8 +27790,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.1,
-      "latencia_end_to_end_ms": 8.9
+      "latencia_model_only_ms": 378.29,
+      "latencia_end_to_end_ms": 379.34
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201359_png.rf.7526d8895aeaec390d95cbb912e46095.jpg",
@@ -27815,14 +27815,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.6,
-      "latencia_end_to_end_ms": 8.56
+      "latencia_model_only_ms": 366.94,
+      "latencia_end_to_end_ms": 368.09
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201426_png.rf.1966dc8a8197a5f43a71c7fe0e4e269d.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.01
+      "latencia_model_only_ms": 361.44,
+      "latencia_end_to_end_ms": 362.85
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201509_png.rf.bfc2034af16e96209f94b1d7efdf263f.jpg",
@@ -27864,8 +27864,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.46
+      "latencia_model_only_ms": 392.44,
+      "latencia_end_to_end_ms": 394.44
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201543_png.rf.af47e3f7d3c1805507ef476e7cb6ebf7.jpg",
@@ -27889,8 +27889,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.64,
-      "latencia_end_to_end_ms": 8.51
+      "latencia_model_only_ms": 426.05,
+      "latencia_end_to_end_ms": 427.44
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201653_png.rf.16d7cc5faabb0acc1bb8099c8274f46f.jpg",
@@ -27914,14 +27914,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.92,
-      "latencia_end_to_end_ms": 7.74
+      "latencia_model_only_ms": 473.71,
+      "latencia_end_to_end_ms": 474.81
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-201742_png.rf.4b6d903f602af2812cce16af63602317.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.89,
-      "latencia_end_to_end_ms": 7.88
+      "latencia_model_only_ms": 411.61,
+      "latencia_end_to_end_ms": 412.99
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-203203_png.rf.b8e07f4df3b50e2f0dafca59cc4cab3e.jpg",
@@ -27963,8 +27963,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.94,
-      "latencia_end_to_end_ms": 8.98
+      "latencia_model_only_ms": 392.13,
+      "latencia_end_to_end_ms": 393.59
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204106_png.rf.202042a0756ea12e82b781c3047cae1d.jpg",
@@ -27988,8 +27988,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.02
+      "latencia_model_only_ms": 385.85,
+      "latencia_end_to_end_ms": 387.38
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204124_png.rf.127e70f12a13f75af7665b5b5b29bb3e.jpg",
@@ -28004,8 +28004,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.49
+      "latencia_model_only_ms": 398.35,
+      "latencia_end_to_end_ms": 399.71
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204134_png.rf.341a50c2b0df7fc1b592ed5508d862c0.jpg",
@@ -28029,20 +28029,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.58
+      "latencia_model_only_ms": 364.66,
+      "latencia_end_to_end_ms": 366.18
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204258_png.rf.9b24c4608f8672b6b8b698753347b02a.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.8,
-      "latencia_end_to_end_ms": 7.69
+      "latencia_model_only_ms": 362.18,
+      "latencia_end_to_end_ms": 363.4
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204502_png.rf.ac22652ac97392351d1aedb51149df58.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.65
+      "latencia_model_only_ms": 361.12,
+      "latencia_end_to_end_ms": 366.69
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204548_png.rf.181020f800806afc372fd95f1e3bd2a1.jpg",
@@ -28057,8 +28057,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.14,
-      "latencia_end_to_end_ms": 9.19
+      "latencia_model_only_ms": 361.5,
+      "latencia_end_to_end_ms": 362.57
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-204719_png.rf.9a329b5cffd9251eef7bf79a21b4c242.jpg",
@@ -28082,8 +28082,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.91,
-      "latencia_end_to_end_ms": 8.89
+      "latencia_model_only_ms": 348.66,
+      "latencia_end_to_end_ms": 349.99
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205058_png.rf.995acd0f110b8baee26245d4278160af.jpg",
@@ -28098,20 +28098,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.63,
-      "latencia_end_to_end_ms": 8.7
+      "latencia_model_only_ms": 395.63,
+      "latencia_end_to_end_ms": 397.08
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205143_png.rf.c90c9bec5f4ea7b1ca76f936f8d26847.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.3,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 372.24,
+      "latencia_end_to_end_ms": 373.74
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205250_png.rf.66a12cd338e20d493331d199a32c0404.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.45,
-      "latencia_end_to_end_ms": 7.66
+      "latencia_model_only_ms": 383.71,
+      "latencia_end_to_end_ms": 385.66
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205335_png.rf.ee11d8ff23484bbfa14e8b78f01f1dc8.jpg",
@@ -28135,8 +28135,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.99,
-      "latencia_end_to_end_ms": 8.13
+      "latencia_model_only_ms": 377.57,
+      "latencia_end_to_end_ms": 379.61
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205410_png.rf.2180a2917c2c3387d1e7722ddc09c14f.jpg",
@@ -28160,14 +28160,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.3
+      "latencia_model_only_ms": 379.9,
+      "latencia_end_to_end_ms": 381.17
     },
     {
       "image_id": "Captura-de-tela-2026-06-05-205432_png.rf.3801ddca91bcb03f6427889146341640.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.91,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 401.41,
+      "latencia_end_to_end_ms": 405.3
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-094755_png.rf.cb68ac086caf2f4200dd23eddbd96831.jpg",
@@ -28200,8 +28200,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 7.98
+      "latencia_model_only_ms": 365.32,
+      "latencia_end_to_end_ms": 366.45
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-094813_png.rf.76d5ec554e148c3d46672dc27349cff6.jpg",
@@ -28216,20 +28216,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.4,
-      "latencia_end_to_end_ms": 8.61
+      "latencia_model_only_ms": 374.11,
+      "latencia_end_to_end_ms": 377.93
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-094848_png.rf.3abdb0ac9c685060ed62becd664407f9.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 396.63,
+      "latencia_end_to_end_ms": 398.51
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-094938_png.rf.5a87fce75f7a1008a615b5341c136654.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.52,
-      "latencia_end_to_end_ms": 7.56
+      "latencia_model_only_ms": 379.14,
+      "latencia_end_to_end_ms": 380.24
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095001_png.rf.e113489ea4c4a96e7c7f5bf5a70cc097.jpg",
@@ -28244,8 +28244,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.81,
-      "latencia_end_to_end_ms": 8.96
+      "latencia_model_only_ms": 403.29,
+      "latencia_end_to_end_ms": 404.65
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095032_png.rf.9e9e1af3f69c46b18bcd66a784d64d82.jpg",
@@ -28278,20 +28278,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.51
+      "latencia_model_only_ms": 421.73,
+      "latencia_end_to_end_ms": 423.77
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095118_png.rf.07279f1af0afd94f10746fbc72b0ba88.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.83,
-      "latencia_end_to_end_ms": 7.84
+      "latencia_model_only_ms": 508.12,
+      "latencia_end_to_end_ms": 509.37
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095242_png.rf.21594a6984757e729c675472fa772746.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.63,
-      "latencia_end_to_end_ms": 7.5
+      "latencia_model_only_ms": 418.06,
+      "latencia_end_to_end_ms": 419.5
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095353_png.rf.73a0ccae69a81b13191bef0add8e97b1.jpg",
@@ -28315,14 +28315,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.57,
-      "latencia_end_to_end_ms": 8.78
+      "latencia_model_only_ms": 515.0,
+      "latencia_end_to_end_ms": 516.12
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095432_png.rf.12c5da25378d3f2a87fdd2fc3bae0d0c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 404.88,
+      "latencia_end_to_end_ms": 407.52
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095453_png.rf.ab67e369c9241cb8fa15c6a73693bd1a.jpg",
@@ -28364,8 +28364,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.02
+      "latencia_model_only_ms": 400.16,
+      "latencia_end_to_end_ms": 402.14
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095540_png.rf.77f2df1e6322109c5c354c130dbf1d68.jpg",
@@ -28389,8 +28389,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.96,
-      "latencia_end_to_end_ms": 9.08
+      "latencia_model_only_ms": 379.75,
+      "latencia_end_to_end_ms": 381.31
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095644_png.rf.a0aa60e545fa992a07065d7a5846d77b.jpg",
@@ -28423,8 +28423,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 381.57,
+      "latencia_end_to_end_ms": 383.2
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095842_png.rf.642199d9bac23bb38ebf2cb00f2ff4bc.jpg",
@@ -28466,8 +28466,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.98,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 356.82,
+      "latencia_end_to_end_ms": 360.19
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-095954_png.rf.45ecf2f075017abfa50737bfef1e96e9.jpg",
@@ -28482,8 +28482,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.85,
-      "latencia_end_to_end_ms": 9.01
+      "latencia_model_only_ms": 377.56,
+      "latencia_end_to_end_ms": 378.82
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100357_png.rf.5bec35b5b126de4d37b2ecb07206a2f8.jpg",
@@ -28498,8 +28498,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.48,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 367.12,
+      "latencia_end_to_end_ms": 368.28
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100426_png.rf.d29394220d56865baa2f5d8a41f2e148.jpg",
@@ -28514,8 +28514,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.5,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 373.46,
+      "latencia_end_to_end_ms": 374.88
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100447_png.rf.868196a3ef440fc01df53ee1bc77acac.jpg",
@@ -28530,8 +28530,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.77,
-      "latencia_end_to_end_ms": 8.89
+      "latencia_model_only_ms": 402.84,
+      "latencia_end_to_end_ms": 404.01
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100511_png.rf.8fda791708367c3b988ac179df5a79eb.jpg",
@@ -28546,8 +28546,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 374.72,
+      "latencia_end_to_end_ms": 376.42
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100525_png.rf.68749a2281a2ed67af59d2e97b98b9f3.jpg",
@@ -28580,8 +28580,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 7.98
+      "latencia_model_only_ms": 396.41,
+      "latencia_end_to_end_ms": 398.07
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100601_png.rf.446e9583c61326b901415c99ced4e217.jpg",
@@ -28596,8 +28596,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.74,
-      "latencia_end_to_end_ms": 8.99
+      "latencia_model_only_ms": 412.02,
+      "latencia_end_to_end_ms": 413.72
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100648_png.rf.6e1f83aa36e3c5d51d169f33e901aeb6.jpg",
@@ -28621,8 +28621,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.19
+      "latencia_model_only_ms": 408.32,
+      "latencia_end_to_end_ms": 409.93
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-100900_png.rf.0c722c250a303beb829b26732fd2bd35.jpg",
@@ -28646,8 +28646,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 7.86
+      "latencia_model_only_ms": 363.22,
+      "latencia_end_to_end_ms": 364.26
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101046_png.rf.247aa8145758f08052bbcc7dd24fa590.jpg",
@@ -28707,14 +28707,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.68,
-      "latencia_end_to_end_ms": 8.6
+      "latencia_model_only_ms": 366.11,
+      "latencia_end_to_end_ms": 367.49
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101153_png.rf.686f6840262b658f76956e80c96fbc86.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.78,
-      "latencia_end_to_end_ms": 7.79
+      "latencia_model_only_ms": 372.12,
+      "latencia_end_to_end_ms": 376.06
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101222_png.rf.7690393414840826b5d2b5c882d46802.jpg",
@@ -28729,14 +28729,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 8.01
+      "latencia_model_only_ms": 376.39,
+      "latencia_end_to_end_ms": 377.81
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101324_png.rf.460f014ada4c661b2b533e40302b7169.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.77,
-      "latencia_end_to_end_ms": 7.65
+      "latencia_model_only_ms": 389.45,
+      "latencia_end_to_end_ms": 391.73
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101354_png.rf.3467740fb97b9d0e89b3291cb156f9ed.jpg",
@@ -28751,8 +28751,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.63,
-      "latencia_end_to_end_ms": 8.72
+      "latencia_model_only_ms": 382.61,
+      "latencia_end_to_end_ms": 384.15
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101443_png.rf.a2d271308ae3cd4a0698b6a52f34cf02.jpg",
@@ -28776,8 +28776,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.3,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 387.25,
+      "latencia_end_to_end_ms": 388.71
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101618_png.rf.6dc783438a9632b716bbfa03e64a8b8c.jpg",
@@ -28792,8 +28792,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.44,
-      "latencia_end_to_end_ms": 8.36
+      "latencia_model_only_ms": 598.76,
+      "latencia_end_to_end_ms": 600.43
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101742_png.rf.f60aea074644da5d561e57db48c50936.jpg",
@@ -28817,8 +28817,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.48,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 381.03,
+      "latencia_end_to_end_ms": 382.77
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101824_png.rf.25ce8abccfed915195c5ec8c2d1efa50.jpg",
@@ -28851,8 +28851,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.06,
-      "latencia_end_to_end_ms": 7.9
+      "latencia_model_only_ms": 358.04,
+      "latencia_end_to_end_ms": 359.5
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101900_png.rf.1cd8b2403e5fdb7c52fa3ecb10506e90.jpg",
@@ -28912,8 +28912,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 370.44,
+      "latencia_end_to_end_ms": 371.97
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-101947_png.rf.fdb1f1125a62337cd36875ed7b5d9f47.jpg",
@@ -28928,8 +28928,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.49
+      "latencia_model_only_ms": 362.93,
+      "latencia_end_to_end_ms": 365.46
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-102116_png.rf.bff5d9b66eb352ffc93d7c00d9a6d2dc.jpg",
@@ -28962,26 +28962,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.01
+      "latencia_model_only_ms": 372.23,
+      "latencia_end_to_end_ms": 374.31
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-102411_png.rf.14fdc32d0fa8204d5964c615edbb99f6.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.69,
-      "latencia_end_to_end_ms": 7.75
+      "latencia_model_only_ms": 379.26,
+      "latencia_end_to_end_ms": 380.96
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-102503_png.rf.7158d95d368e3470f47dab68ddb288c8.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.13,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 381.21,
+      "latencia_end_to_end_ms": 382.41
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-102519_png.rf.0460fcf431802334efa690263885a46f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.7,
-      "latencia_end_to_end_ms": 7.71
+      "latencia_model_only_ms": 380.83,
+      "latencia_end_to_end_ms": 382.37
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-103212_png.rf.43614a08d11303809527aceed7a00709.jpg",
@@ -29005,8 +29005,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 379.94,
+      "latencia_end_to_end_ms": 381.13
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-103344_png.rf.517dad67bd2ca45af725e44402576150.jpg",
@@ -29057,14 +29057,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.63,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 390.71,
+      "latencia_end_to_end_ms": 391.98
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-103425_png.rf.2f82f742556ee25f12c57c30e09b2fcc.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 391.2,
+      "latencia_end_to_end_ms": 393.04
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-103551_png.rf.7d856eedd3e4b2c8c8158cf336a6f6a6.jpg",
@@ -29088,26 +29088,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.17
+      "latencia_model_only_ms": 367.42,
+      "latencia_end_to_end_ms": 368.84
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-103626_png.rf.1d85ca08219b2f7306f4f4bc2fd91cee.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.27,
-      "latencia_end_to_end_ms": 8.32
+      "latencia_model_only_ms": 363.82,
+      "latencia_end_to_end_ms": 365.69
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104039_png.rf.97edaedef270def5c012bfd500c50b0c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.65
+      "latencia_model_only_ms": 357.07,
+      "latencia_end_to_end_ms": 359.45
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104247_png.rf.498d5b61517c1002d1960b4165739a6e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.46,
-      "latencia_end_to_end_ms": 7.29
+      "latencia_model_only_ms": 364.76,
+      "latencia_end_to_end_ms": 367.05
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104304_png.rf.8410fd85e4749dc0e470177408457f5d.jpg",
@@ -29131,8 +29131,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.87,
-      "latencia_end_to_end_ms": 8.76
+      "latencia_model_only_ms": 359.79,
+      "latencia_end_to_end_ms": 361.59
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104332_png.rf.879ea3cf673692485d1e6e777c66aff1.jpg",
@@ -29147,8 +29147,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.08
+      "latencia_model_only_ms": 356.66,
+      "latencia_end_to_end_ms": 358.38
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104432_png.rf.d5a9069cc191b7092423348823d0169f.jpg",
@@ -29181,14 +29181,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 355.05,
+      "latencia_end_to_end_ms": 357.93
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104500_png.rf.ac3ea23e9f61328d1ea7cf51fa254bae.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.02
+      "latencia_model_only_ms": 357.09,
+      "latencia_end_to_end_ms": 358.36
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104714_png.rf.ca6a9274606eee693cf1f963b593b4be.jpg",
@@ -29239,26 +29239,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.48
+      "latencia_model_only_ms": 361.04,
+      "latencia_end_to_end_ms": 362.96
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104732_png.rf.8bc280d78acd7c9069b8d652f0205ccb.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.81,
-      "latencia_end_to_end_ms": 7.84
+      "latencia_model_only_ms": 351.25,
+      "latencia_end_to_end_ms": 352.85
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104800_png.rf.357f6e9a206954a9cecba9c7a99472f5.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 359.06,
+      "latencia_end_to_end_ms": 360.7
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104902_png.rf.b0880916887e8c62c24f34d4699c80c7.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 357.62,
+      "latencia_end_to_end_ms": 358.85
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104925_png.rf.13191f3c3af428e17667d9056ef26d23.jpg",
@@ -29273,8 +29273,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 8.69
+      "latencia_model_only_ms": 355.49,
+      "latencia_end_to_end_ms": 356.8
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104943_png.rf.38fb00384a3bb103233fef75515036f2.jpg",
@@ -29298,8 +29298,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.79,
-      "latencia_end_to_end_ms": 8.75
+      "latencia_model_only_ms": 355.04,
+      "latencia_end_to_end_ms": 356.34
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-104955_png.rf.f482079e1ac89252c2e2686207436b77.jpg",
@@ -29314,14 +29314,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.82,
-      "latencia_end_to_end_ms": 8.86
+      "latencia_model_only_ms": 373.8,
+      "latencia_end_to_end_ms": 375.43
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105009_png.rf.b79871887a1ae56cdf9ee446cc8d2b8f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.03,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 371.61,
+      "latencia_end_to_end_ms": 372.97
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105214_png.rf.21a59c2384bbd76dc3ffea95e2aed19b.jpg",
@@ -29345,14 +29345,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 364.37,
+      "latencia_end_to_end_ms": 365.63
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105259_png.rf.2be319eab3c1d8c2161446dfb7bc14e9.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 8.09
+      "latencia_model_only_ms": 376.48,
+      "latencia_end_to_end_ms": 377.64
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105323_png.rf.0f191a8ef4cd8e8bf7b4dc885e2f2551.jpg",
@@ -29367,8 +29367,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.15,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 374.12,
+      "latencia_end_to_end_ms": 376.15
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105358_png.rf.c500304246b39f8d59a639db9cccfe72.jpg",
@@ -29419,8 +29419,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.05,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 366.78,
+      "latencia_end_to_end_ms": 368.76
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105415_png.rf.d90c8eb5e96866faf4985d235641238d.jpg",
@@ -29435,8 +29435,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.79
+      "latencia_model_only_ms": 368.97,
+      "latencia_end_to_end_ms": 371.05
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105433_png.rf.ca0ba554cc67b128b9ffcf6450559090.jpg",
@@ -29460,8 +29460,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 8.1
+      "latencia_model_only_ms": 379.38,
+      "latencia_end_to_end_ms": 380.66
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105450_png.rf.e6f2f8abf1139bbeb234bf4ae5bf0011.jpg",
@@ -29476,8 +29476,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.53,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 389.15,
+      "latencia_end_to_end_ms": 392.17
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105510_png.rf.7268defb6c6cf8dca318467b1beb2805.jpg",
@@ -29501,8 +29501,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.75,
-      "latencia_end_to_end_ms": 8.94
+      "latencia_model_only_ms": 370.91,
+      "latencia_end_to_end_ms": 373.68
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105806_png.rf.de0ad1ec5833d7ba194dbf3dba2ec8cb.jpg",
@@ -29517,14 +29517,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.42
+      "latencia_model_only_ms": 365.78,
+      "latencia_end_to_end_ms": 367.24
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105912_png.rf.ff7339544b93a3e60aeb99ba83d1c266.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.59,
-      "latencia_end_to_end_ms": 7.45
+      "latencia_model_only_ms": 355.33,
+      "latencia_end_to_end_ms": 356.69
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105938_png.rf.20ab2832fa817599535f1a77321900bc.jpg",
@@ -29539,14 +29539,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.92,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 344.54,
+      "latencia_end_to_end_ms": 345.85
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-105954_png.rf.7beb5c0b0a67567b52398925e3aac2b4.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.81,
-      "latencia_end_to_end_ms": 7.8
+      "latencia_model_only_ms": 356.46,
+      "latencia_end_to_end_ms": 358.44
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-110012_png.rf.9497566431631de672adaa34ca5c113a.jpg",
@@ -29570,8 +29570,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 360.89,
+      "latencia_end_to_end_ms": 362.27
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-110029_png.rf.d20db2ca18f77cb7ae5887f82e496886.jpg",
@@ -29604,8 +29604,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.67,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 346.71,
+      "latencia_end_to_end_ms": 348.15
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-110048_png.rf.521ad3b1c708d9c54b3a706a64ba6e36.jpg",
@@ -29620,8 +29620,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.37,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 348.03,
+      "latencia_end_to_end_ms": 349.37
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-110118_png.rf.9bc667762efbfdde7b742aadabda17ee.jpg",
@@ -29645,8 +29645,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 7.98
+      "latencia_model_only_ms": 451.04,
+      "latencia_end_to_end_ms": 452.32
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-110246_png.rf.65b3df803b17942702d74c234c1eb280.jpg",
@@ -29661,8 +29661,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.66,
-      "latencia_end_to_end_ms": 8.59
+      "latencia_model_only_ms": 363.0,
+      "latencia_end_to_end_ms": 364.73
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112159_png.rf.c88857622755098593a00fc0cae69f8a.jpg",
@@ -29677,14 +29677,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.58
+      "latencia_model_only_ms": 365.54,
+      "latencia_end_to_end_ms": 366.98
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112248_png.rf.d35fba003e68cbdcbf706945ad2e27e4.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 427.49,
+      "latencia_end_to_end_ms": 430.71
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112316_png.rf.f43c4bf2cc6654cdc1c0e3b148e42b6e.jpg",
@@ -29699,8 +29699,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.56,
-      "latencia_end_to_end_ms": 8.51
+      "latencia_model_only_ms": 558.89,
+      "latencia_end_to_end_ms": 560.57
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112343_png.rf.02082e906a69ac23f0d9cf70978adae9.jpg",
@@ -29715,8 +29715,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.52,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 400.44,
+      "latencia_end_to_end_ms": 401.66
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112358_png.rf.42dc84525030442052b7142898da6ad2.jpg",
@@ -29749,20 +29749,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.23,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 604.69,
+      "latencia_end_to_end_ms": 606.14
     },
     {
       "image_id": "Captura-de-tela-2026-06-06-112719_png.rf.f47cbf29d96dd30f7e23831b1dd349a8.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.78,
-      "latencia_end_to_end_ms": 7.76
+      "latencia_model_only_ms": 361.09,
+      "latencia_end_to_end_ms": 363.37
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-21-57-13_png.rf.f057ef665238f3cd471e3552e4e67e28.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.54
+      "latencia_model_only_ms": 362.71,
+      "latencia_end_to_end_ms": 364.65
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-21-58-35_png.rf.f3ee38045668a177c1b7c36558dda1d3.jpg",
@@ -29786,26 +29786,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.99,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 372.55,
+      "latencia_end_to_end_ms": 376.31
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-21-58-59_png.rf.7460d8e88bc1e9c903ee211535183849.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.59,
-      "latencia_end_to_end_ms": 7.46
+      "latencia_model_only_ms": 378.04,
+      "latencia_end_to_end_ms": 379.55
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-00-13_png.rf.49bc8b9fe71c593aba455d08a23702f0.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.37,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 374.84,
+      "latencia_end_to_end_ms": 376.31
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-00-42_png.rf.ba9e147552a61fce1a0bf19015abf5c1.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.82,
-      "latencia_end_to_end_ms": 7.96
+      "latencia_model_only_ms": 385.09,
+      "latencia_end_to_end_ms": 387.03
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-02-08_png.rf.409c6d388192ffff287ce46a81fd578a.jpg",
@@ -29829,8 +29829,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.06,
-      "latencia_end_to_end_ms": 8.02
+      "latencia_model_only_ms": 380.93,
+      "latencia_end_to_end_ms": 384.34
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-03-38_png.rf.41665c3337d8740a0b52193fc6dac9b7.jpg",
@@ -29854,26 +29854,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.62,
-      "latencia_end_to_end_ms": 8.61
+      "latencia_model_only_ms": 375.96,
+      "latencia_end_to_end_ms": 377.13
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-04-52_png.rf.5b3e9df3217226ad142e2ef4b80038aa.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.22,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 422.45,
+      "latencia_end_to_end_ms": 424.07
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-07-10_png.rf.2f1129601614ba27a71a458191b15ae5.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.86,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 387.61,
+      "latencia_end_to_end_ms": 390.3
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-07-56_png.rf.7e79d41082a1628f1dd851180e6673e4.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.05,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 467.54,
+      "latencia_end_to_end_ms": 468.77
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-09-42_png.rf.6e401e0da2de1bda4089b1cdf61647af.jpg",
@@ -29915,20 +29915,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.46,
-      "latencia_end_to_end_ms": 8.58
+      "latencia_model_only_ms": 480.37,
+      "latencia_end_to_end_ms": 482.43
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-10-44_png.rf.0b0db151a18af7d389f0839c6d7606aa.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.83,
-      "latencia_end_to_end_ms": 7.76
+      "latencia_model_only_ms": 488.13,
+      "latencia_end_to_end_ms": 489.34
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-11-45_png.rf.c5be99ceaabe2d02ee69f3e384632e3f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.59,
-      "latencia_end_to_end_ms": 7.54
+      "latencia_model_only_ms": 428.08,
+      "latencia_end_to_end_ms": 429.54
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-12-13_png.rf.c49d3a0f8830f427109931ed4a78afc1.jpg",
@@ -29943,20 +29943,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.32,
-      "latencia_end_to_end_ms": 9.37
+      "latencia_model_only_ms": 533.77,
+      "latencia_end_to_end_ms": 535.0
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-14-49_png.rf.a730f12bac46f2ab4522fee18d1534b6.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.56,
-      "latencia_end_to_end_ms": 7.65
+      "latencia_model_only_ms": 385.16,
+      "latencia_end_to_end_ms": 387.96
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-15-52_png.rf.732a5e0298a4f0474636e459239e0beb.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.52,
-      "latencia_end_to_end_ms": 7.44
+      "latencia_model_only_ms": 368.86,
+      "latencia_end_to_end_ms": 370.15
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-16-51_png.rf.3e5e3450679f20a6e1d4a24f1527ceb5.jpg",
@@ -29971,14 +29971,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.21
+      "latencia_model_only_ms": 366.09,
+      "latencia_end_to_end_ms": 367.3
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-17-13_png.rf.c4fad982f16092e5663af2f742693566.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.07,
-      "latencia_end_to_end_ms": 8.1
+      "latencia_model_only_ms": 357.54,
+      "latencia_end_to_end_ms": 359.66
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-17-41_png.rf.f82dc81db64ac6a5891cf8437f38eb45.jpg",
@@ -30002,8 +30002,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 364.87,
+      "latencia_end_to_end_ms": 366.85
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-18-03_png.rf.8100b116e8d5875c2d2c951b591b5dd4.jpg",
@@ -30027,8 +30027,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.43,
-      "latencia_end_to_end_ms": 8.44
+      "latencia_model_only_ms": 361.55,
+      "latencia_end_to_end_ms": 364.51
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-20-03_png.rf.0b6021584417293a9117b0a993b5a48a.jpg",
@@ -30052,14 +30052,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.6,
-      "latencia_end_to_end_ms": 8.67
+      "latencia_model_only_ms": 404.12,
+      "latencia_end_to_end_ms": 405.71
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-21-27_png.rf.b62a5d5ecf51ef891b1ac494ebc774f7.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.63,
-      "latencia_end_to_end_ms": 7.59
+      "latencia_model_only_ms": 418.65,
+      "latencia_end_to_end_ms": 420.14
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-24-50_png.rf.8286c062405226e0fdd818b2a4000a9e.jpg",
@@ -30074,8 +30074,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.18,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 377.71,
+      "latencia_end_to_end_ms": 379.58
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-26-25_png.rf.aa3b14752dce7ae876cffabffcc8c991.jpg",
@@ -30171,14 +30171,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.62,
-      "latencia_end_to_end_ms": 8.74
+      "latencia_model_only_ms": 361.9,
+      "latencia_end_to_end_ms": 363.35
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-29-28_png.rf.7e1a17e7eb99c8d61976fd8b7c8a3f5e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.77,
-      "latencia_end_to_end_ms": 7.85
+      "latencia_model_only_ms": 368.87,
+      "latencia_end_to_end_ms": 370.24
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-33-14_png.rf.eb6c9bebdc37d1045c698eaac48f93fd.jpg",
@@ -30220,8 +30220,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.63,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 362.71,
+      "latencia_end_to_end_ms": 364.25
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-33-58_png.rf.ccb570d6d57aedc64849adba95ed2773.jpg",
@@ -30245,8 +30245,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.59
+      "latencia_model_only_ms": 364.13,
+      "latencia_end_to_end_ms": 365.37
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-35-10_png.rf.a4dad4661cadd733ddd2e54185a2f832.jpg",
@@ -30261,20 +30261,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.24,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 362.48,
+      "latencia_end_to_end_ms": 363.86
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-36-59_png.rf.796d5649f22d4b7b150c443f9df66d3f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.66,
-      "latencia_end_to_end_ms": 7.62
+      "latencia_model_only_ms": 364.56,
+      "latencia_end_to_end_ms": 366.26
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-38-57_png.rf.37859a08f1cccb7aba7064bc54a04e95.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.75,
-      "latencia_end_to_end_ms": 7.99
+      "latencia_model_only_ms": 361.99,
+      "latencia_end_to_end_ms": 363.38
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-39-59_png.rf.8e2924ab844ad470174dd89d88ea9760.jpg",
@@ -30307,8 +30307,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.93,
-      "latencia_end_to_end_ms": 7.8
+      "latencia_model_only_ms": 361.59,
+      "latencia_end_to_end_ms": 362.81
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-40-47_png.rf.58161328165a98fc6c8cfd363602ca5d.jpg",
@@ -30332,8 +30332,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 365.07,
+      "latencia_end_to_end_ms": 366.62
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-41-31_png.rf.c7eafee797887a14675a7bf9281efc14.jpg",
@@ -30366,14 +30366,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.9
+      "latencia_model_only_ms": 362.03,
+      "latencia_end_to_end_ms": 363.22
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-44-06_png.rf.1b84206737d4a259bfffef5252ab28dc.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.65,
-      "latencia_end_to_end_ms": 7.63
+      "latencia_model_only_ms": 399.4,
+      "latencia_end_to_end_ms": 400.69
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-45-09_png.rf.f668ed4322823f9f93a24ccc977510a5.jpg",
@@ -30388,8 +30388,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.91,
-      "latencia_end_to_end_ms": 7.94
+      "latencia_model_only_ms": 474.55,
+      "latencia_end_to_end_ms": 475.88
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-45-53_png.rf.50aadb71de65ec1464f2a6b521814fd6.jpg",
@@ -30404,8 +30404,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.71
+      "latencia_model_only_ms": 367.26,
+      "latencia_end_to_end_ms": 370.89
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-47-44_png.rf.4cde9b413cd62621c34f4e6663c13f29.jpg",
@@ -30447,8 +30447,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.98,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 372.54,
+      "latencia_end_to_end_ms": 374.2
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-48-42_png.rf.0d6b20c051cd300cbc94d6bfb5f64316.jpg",
@@ -30481,14 +30481,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.8,
-      "latencia_end_to_end_ms": 7.78
+      "latencia_model_only_ms": 364.38,
+      "latencia_end_to_end_ms": 366.16
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-49-48_png.rf.0e84fd81cf1e71c63dcfcaee83d9d6ac.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.18,
-      "latencia_end_to_end_ms": 8.16
+      "latencia_model_only_ms": 364.55,
+      "latencia_end_to_end_ms": 366.08
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-50-49_png.rf.639f67cab267d610dc62099f44b2aa58.jpg",
@@ -30512,8 +30512,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 365.83,
+      "latencia_end_to_end_ms": 367.54
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-04-22-52-12_png.rf.dd3b0ad56ea93a43fcfc5c71c33762c1.jpg",
@@ -30528,14 +30528,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.95,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 364.1,
+      "latencia_end_to_end_ms": 367.48
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-52-25_png.rf.912f048d1c1aa9584767aa51f91b9dcb.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.07,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 369.13,
+      "latencia_end_to_end_ms": 370.67
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-52-45_png.rf.7121eb7ca58f07cccbf003d2696489ca.jpg",
@@ -30550,8 +30550,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.5,
-      "latencia_end_to_end_ms": 8.66
+      "latencia_model_only_ms": 364.15,
+      "latencia_end_to_end_ms": 365.68
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-53-32_png.rf.12fe657f483149a88bf591362e9de221.jpg",
@@ -30566,20 +30566,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.54
+      "latencia_model_only_ms": 365.27,
+      "latencia_end_to_end_ms": 367.0
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-53-44_png.rf.ea200d77a8fa74be5f67d300906fcda1.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.07,
-      "latencia_end_to_end_ms": 8.26
+      "latencia_model_only_ms": 363.33,
+      "latencia_end_to_end_ms": 364.83
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-58-34_png.rf.2aa9b57dd0222f180478b9870beeccc8.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.19
+      "latencia_model_only_ms": 365.85,
+      "latencia_end_to_end_ms": 367.21
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-18-58-59_png.rf.35e78451f624715527519ea28cb6fd78.jpg",
@@ -30594,14 +30594,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.02,
-      "latencia_end_to_end_ms": 7.98
+      "latencia_model_only_ms": 420.98,
+      "latencia_end_to_end_ms": 422.35
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-01-19_png.rf.f0a27af7a5c7973f6891be37b3df742e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.64
+      "latencia_model_only_ms": 382.0,
+      "latencia_end_to_end_ms": 383.8
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-02-45_png.rf.09e57114d64e2502a4e716b673951467.jpg",
@@ -30625,8 +30625,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.93,
-      "latencia_end_to_end_ms": 8.89
+      "latencia_model_only_ms": 363.03,
+      "latencia_end_to_end_ms": 364.17
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-03-33_png.rf.6e60bf7f3150c3870dcf42e83d92e1be.jpg",
@@ -30677,8 +30677,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.93,
-      "latencia_end_to_end_ms": 7.82
+      "latencia_model_only_ms": 367.84,
+      "latencia_end_to_end_ms": 369.44
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-04-33_png.rf.e183c2703a02fede3a39cb47b10a7295.jpg",
@@ -30729,8 +30729,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.12
+      "latencia_model_only_ms": 357.31,
+      "latencia_end_to_end_ms": 358.54
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-04-50_png.rf.9b24cfb973c3dd32992dd17fb2fcb976.jpg",
@@ -30799,14 +30799,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.12,
-      "latencia_end_to_end_ms": 9.18
+      "latencia_model_only_ms": 369.92,
+      "latencia_end_to_end_ms": 371.45
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-09-21_png.rf.7403860c2136e78a16dccb758509064e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.69,
-      "latencia_end_to_end_ms": 7.76
+      "latencia_model_only_ms": 363.15,
+      "latencia_end_to_end_ms": 366.67
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-10-45_png.rf.8fb8599feb11fedfbe051fded794519a.jpg",
@@ -30830,8 +30830,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.08,
-      "latencia_end_to_end_ms": 9.2
+      "latencia_model_only_ms": 364.11,
+      "latencia_end_to_end_ms": 365.99
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-10-58_png.rf.9f5090299f180825c3d51626cfbb8e54.jpg",
@@ -30846,8 +30846,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.45,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 363.55,
+      "latencia_end_to_end_ms": 365.48
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-11-18_png.rf.a910f7a914d738ea0bc9a2cf7b3fc0ad.jpg",
@@ -30862,8 +30862,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 363.71,
+      "latencia_end_to_end_ms": 365.76
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-11-52_png.rf.dceb7e7fb05d1595c53e8bbf0d102f23.jpg",
@@ -30896,14 +30896,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.9,
-      "latencia_end_to_end_ms": 8.95
+      "latencia_model_only_ms": 362.59,
+      "latencia_end_to_end_ms": 364.01
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-12-43_png.rf.00655179b7481c691a8b859f0b55819f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.54
+      "latencia_model_only_ms": 363.03,
+      "latencia_end_to_end_ms": 364.39
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-14-15_png.rf.9d4d8766412af7d18e9b56d3332c704f.jpg",
@@ -30927,8 +30927,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.06,
-      "latencia_end_to_end_ms": 8.06
+      "latencia_model_only_ms": 363.19,
+      "latencia_end_to_end_ms": 366.05
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-14-47_png.rf.b88174f11ba8c79d2b2de22ef27b454f.jpg",
@@ -30970,8 +30970,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.45
+      "latencia_model_only_ms": 365.39,
+      "latencia_end_to_end_ms": 367.68
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-19-33_png.rf.7c86730349d7630b5785ce9e1de7c961.jpg",
@@ -31094,14 +31094,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.18,
-      "latencia_end_to_end_ms": 8.1
+      "latencia_model_only_ms": 362.52,
+      "latencia_end_to_end_ms": 365.03
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-24-04_png.rf.7f5795599250ed8b9c01a8597c9292e9.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.89,
-      "latencia_end_to_end_ms": 7.82
+      "latencia_model_only_ms": 362.64,
+      "latencia_end_to_end_ms": 364.31
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-25-56_png.rf.2e5e995e94411d84fa923036f852e003.jpg",
@@ -31125,8 +31125,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.5
+      "latencia_model_only_ms": 363.67,
+      "latencia_end_to_end_ms": 365.24
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-26-45_png.rf.54919baea6b5ef892895ce3d4aebf330.jpg",
@@ -31150,8 +31150,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.76,
-      "latencia_end_to_end_ms": 8.79
+      "latencia_model_only_ms": 366.11,
+      "latencia_end_to_end_ms": 367.63
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-33-04_png.rf.28d220fcfc97c0f6cc4b974588f05aaa.jpg",
@@ -31193,8 +31193,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.35
+      "latencia_model_only_ms": 398.65,
+      "latencia_end_to_end_ms": 399.81
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-38-01_png.rf.d6852a4b74b22e47f855196e33dcaf73.jpg",
@@ -31245,14 +31245,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.43,
-      "latencia_end_to_end_ms": 9.39
+      "latencia_model_only_ms": 381.65,
+      "latencia_end_to_end_ms": 383.17
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-40-31_png.rf.952940cdd5569172d048ff130d3d7d73.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.55
+      "latencia_model_only_ms": 390.35,
+      "latencia_end_to_end_ms": 392.01
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-41-57_png.rf.c5164d1384fb295888acf46765e6c54f.jpg",
@@ -31267,8 +31267,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.05,
-      "latencia_end_to_end_ms": 7.94
+      "latencia_model_only_ms": 404.79,
+      "latencia_end_to_end_ms": 406.36
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-43-03_png.rf.1ec6e368c5f15fad67d63a9785085000.jpg",
@@ -31301,8 +31301,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.4,
-      "latencia_end_to_end_ms": 9.33
+      "latencia_model_only_ms": 382.16,
+      "latencia_end_to_end_ms": 384.04
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-44-37_png.rf.444cb580e38622470726e197012a3753.jpg",
@@ -31326,8 +31326,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.96,
-      "latencia_end_to_end_ms": 7.87
+      "latencia_model_only_ms": 440.55,
+      "latencia_end_to_end_ms": 442.33
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-52-01_png.rf.5280cb7aa7516da3b8df9b87b322bb0c.jpg",
@@ -31351,20 +31351,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.37,
-      "latencia_end_to_end_ms": 8.28
+      "latencia_model_only_ms": 531.06,
+      "latencia_end_to_end_ms": 532.26
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-56-31_png.rf.bf547b54444088cad8f99c5614b9161e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.93,
-      "latencia_end_to_end_ms": 7.9
+      "latencia_model_only_ms": 379.07,
+      "latencia_end_to_end_ms": 380.64
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-57-25_png.rf.cc9dd6680b61c993199fdc92fe54a557.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.69,
-      "latencia_end_to_end_ms": 7.68
+      "latencia_model_only_ms": 396.27,
+      "latencia_end_to_end_ms": 397.71
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-57-35_png.rf.7153de05601c7e44bfc53de3561f6e94.jpg",
@@ -31379,14 +31379,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.26,
-      "latencia_end_to_end_ms": 8.28
+      "latencia_model_only_ms": 430.02,
+      "latencia_end_to_end_ms": 431.91
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-19-59-17_png.rf.337c3cddba7b05a5c2dd1f059bd0203e.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.65,
-      "latencia_end_to_end_ms": 7.63
+      "latencia_model_only_ms": 396.17,
+      "latencia_end_to_end_ms": 397.69
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-00-14_png.rf.1b7c960aac5df1ae63b0dd5a5a34b8ea.jpg",
@@ -31437,8 +31437,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.77,
-      "latencia_end_to_end_ms": 9.01
+      "latencia_model_only_ms": 382.41,
+      "latencia_end_to_end_ms": 383.99
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-09-18_png.rf.503961d3bc655f756458c581dcd2d329.jpg",
@@ -31462,14 +31462,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.31,
-      "latencia_end_to_end_ms": 8.29
+      "latencia_model_only_ms": 481.44,
+      "latencia_end_to_end_ms": 482.65
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-09-44_png.rf.5df2da6abb428eb5d610cfd4897e396a.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.64,
-      "latencia_end_to_end_ms": 7.73
+      "latencia_model_only_ms": 377.49,
+      "latencia_end_to_end_ms": 378.8
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-10-35_png.rf.bba78f0f08dfb2de50852c77509d9e1a.jpg",
@@ -31529,8 +31529,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.61,
-      "latencia_end_to_end_ms": 9.0
+      "latencia_model_only_ms": 375.75,
+      "latencia_end_to_end_ms": 377.04
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-11-04_png.rf.a4634da4e74faa80492691421427e354.jpg",
@@ -31554,8 +31554,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.5
+      "latencia_model_only_ms": 380.66,
+      "latencia_end_to_end_ms": 382.42
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-12-46_png.rf.8529b0d19cbc98f6f34bef5374d2638f.jpg",
@@ -31579,8 +31579,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.12,
-      "latencia_end_to_end_ms": 8.92
+      "latencia_model_only_ms": 360.74,
+      "latencia_end_to_end_ms": 362.1
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-13-05_png.rf.81b15df6d74a10d7f4e2cb865b1842b4.jpg",
@@ -31604,8 +31604,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.48,
-      "latencia_end_to_end_ms": 8.48
+      "latencia_model_only_ms": 364.85,
+      "latencia_end_to_end_ms": 366.14
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-17-16_png.rf.31ee9931bbf590f0448df87f158549f0.jpg",
@@ -31638,8 +31638,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.07,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 366.53,
+      "latencia_end_to_end_ms": 367.97
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-17-58_png.rf.b37920d31bd1d9238493818b1dd98775.jpg",
@@ -31654,20 +31654,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.2,
-      "latencia_end_to_end_ms": 9.03
+      "latencia_model_only_ms": 365.82,
+      "latencia_end_to_end_ms": 366.98
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-28-21_png.rf.c25419aef75e7af029c73b136d3f1223.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.34
+      "latencia_model_only_ms": 363.89,
+      "latencia_end_to_end_ms": 365.47
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-36-03_png.rf.a5f405ad2f6342fa536db8a70da0def1.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.06,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 364.05,
+      "latencia_end_to_end_ms": 365.66
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-41-34_png.rf.f28bb3374034c20d144abfe748f4952b.jpg",
@@ -31691,8 +31691,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.12,
-      "latencia_end_to_end_ms": 7.92
+      "latencia_model_only_ms": 412.14,
+      "latencia_end_to_end_ms": 413.27
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-42-54_png.rf.974bf41a3ba11a9352088a17be30e820.jpg",
@@ -31734,8 +31734,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.72,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 365.48,
+      "latencia_end_to_end_ms": 366.62
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-43-54_png.rf.014ddbf34cc231091a21fcacbe686a46.jpg",
@@ -31750,14 +31750,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.15
+      "latencia_model_only_ms": 364.6,
+      "latencia_end_to_end_ms": 365.74
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-53-32_png.rf.50cf000bb43911de07be8acb2798e78f.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.82,
-      "latencia_end_to_end_ms": 7.85
+      "latencia_model_only_ms": 361.5,
+      "latencia_end_to_end_ms": 362.98
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-20-59-25_png.rf.ddc713df3a3ce31cc02debc163b9268a.jpg",
@@ -31790,8 +31790,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.94,
-      "latencia_end_to_end_ms": 8.91
+      "latencia_model_only_ms": 371.44,
+      "latencia_end_to_end_ms": 372.8
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-12-19_png.rf.232c1e1fa29b35944f5572fb4f0f9609.jpg",
@@ -31815,8 +31815,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.41,
-      "latencia_end_to_end_ms": 8.35
+      "latencia_model_only_ms": 364.4,
+      "latencia_end_to_end_ms": 366.64
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-17-41_png.rf.2e6e8ddcd37501f768ac09337f1e0a30.jpg",
@@ -31831,8 +31831,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.35,
-      "latencia_end_to_end_ms": 8.27
+      "latencia_model_only_ms": 364.4,
+      "latencia_end_to_end_ms": 367.11
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-22-40_png.rf.c605c0f7bcae561e2d82bbf7c6ed7f74.jpg",
@@ -31847,8 +31847,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.96,
-      "latencia_end_to_end_ms": 8.96
+      "latencia_model_only_ms": 364.32,
+      "latencia_end_to_end_ms": 365.48
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-25-10_png.rf.993daa158d928cb322347fa38f131dba.jpg",
@@ -31863,8 +31863,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.09,
-      "latencia_end_to_end_ms": 8.11
+      "latencia_model_only_ms": 360.04,
+      "latencia_end_to_end_ms": 361.94
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-25-47_png.rf.f9d79cd7b6160c897727aba482791766.jpg",
@@ -31897,8 +31897,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.78,
-      "latencia_end_to_end_ms": 8.61
+      "latencia_model_only_ms": 374.29,
+      "latencia_end_to_end_ms": 375.89
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-32-22_png.rf.7563ef0682238f9e8762112d7c177f3c.jpg",
@@ -31922,8 +31922,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.4,
-      "latencia_end_to_end_ms": 8.32
+      "latencia_model_only_ms": 402.98,
+      "latencia_end_to_end_ms": 405.54
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-34-38_png.rf.e31ad4b0266fa9056cda3d7c894e29a7.jpg",
@@ -31956,8 +31956,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.1,
-      "latencia_end_to_end_ms": 7.93
+      "latencia_model_only_ms": 381.18,
+      "latencia_end_to_end_ms": 382.61
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-35-16_png.rf.34782903e5e2869658976a3afe1dc89b.jpg",
@@ -31990,8 +31990,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.57,
-      "latencia_end_to_end_ms": 8.45
+      "latencia_model_only_ms": 381.92,
+      "latencia_end_to_end_ms": 383.48
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-38-32_png.rf.4c99d51b7959a4774a823666341207b8.jpg",
@@ -32006,8 +32006,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.78
+      "latencia_model_only_ms": 390.44,
+      "latencia_end_to_end_ms": 391.8
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-41-03_png.rf.90db0b1c13e756162edcdc7c75b94322.jpg",
@@ -32031,8 +32031,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 6.91,
-      "latencia_end_to_end_ms": 7.72
+      "latencia_model_only_ms": 392.48,
+      "latencia_end_to_end_ms": 393.7
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-44-52_png.rf.49608a1d51f7a73396684d911b3f4696.jpg",
@@ -32047,8 +32047,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.55,
-      "latencia_end_to_end_ms": 8.52
+      "latencia_model_only_ms": 387.22,
+      "latencia_end_to_end_ms": 389.84
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-46-01_png.rf.cd26fecf4f0a8b1c950ec2998cfb46c9.jpg",
@@ -32063,8 +32063,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.42,
-      "latencia_end_to_end_ms": 8.33
+      "latencia_model_only_ms": 366.45,
+      "latencia_end_to_end_ms": 367.95
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-47-48_png.rf.09e819b85d7c2a7a84b2e71f3b723637.jpg",
@@ -32097,8 +32097,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.17,
-      "latencia_end_to_end_ms": 8.04
+      "latencia_model_only_ms": 388.92,
+      "latencia_end_to_end_ms": 390.15
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-50-30_png.rf.ca6fbbe0a8247f43e8cc89309fb46a23.jpg",
@@ -32131,8 +32131,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.7,
-      "latencia_end_to_end_ms": 8.6
+      "latencia_model_only_ms": 405.77,
+      "latencia_end_to_end_ms": 407.6
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-53-10_png.rf.6120d1dd19d532deabde2cd05be2f24e.jpg",
@@ -32165,8 +32165,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.66,
-      "latencia_end_to_end_ms": 8.85
+      "latencia_model_only_ms": 406.9,
+      "latencia_end_to_end_ms": 408.23
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-54-05_png.rf.7b3444b84a7cfc55d1a4d25b8f97c0c2.jpg",
@@ -32217,8 +32217,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.0,
-      "latencia_end_to_end_ms": 7.9
+      "latencia_model_only_ms": 488.39,
+      "latencia_end_to_end_ms": 491.05
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-05-21-54-57_png.rf.62ad78332a5e85db16daea9876924193.jpg",
@@ -32233,14 +32233,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.21,
-      "latencia_end_to_end_ms": 9.03
+      "latencia_model_only_ms": 388.26,
+      "latencia_end_to_end_ms": 389.47
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-39-36_png.rf.75304a1633a676c7c4270e451edf2ead.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.24,
-      "latencia_end_to_end_ms": 8.23
+      "latencia_model_only_ms": 355.68,
+      "latencia_end_to_end_ms": 356.99
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-39-49_png.rf.f014b3812a6f5278bef3ecbbae3d1c72.jpg",
@@ -32273,8 +32273,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.22,
-      "latencia_end_to_end_ms": 8.08
+      "latencia_model_only_ms": 364.04,
+      "latencia_end_to_end_ms": 365.39
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-40-22_png.rf.5e843bd1f72df8d5182bc1e11e9bc088.jpg",
@@ -32298,26 +32298,26 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.71,
-      "latencia_end_to_end_ms": 8.62
+      "latencia_model_only_ms": 372.21,
+      "latencia_end_to_end_ms": 374.0
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-41-32_png.rf.9f385827e8d60cef8db63bd9fb5e9189.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.28,
-      "latencia_end_to_end_ms": 8.29
+      "latencia_model_only_ms": 355.07,
+      "latencia_end_to_end_ms": 356.47
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-42-08_png.rf.c5ce3972d5661cab53db7c84781d3448.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.78,
-      "latencia_end_to_end_ms": 7.75
+      "latencia_model_only_ms": 353.34,
+      "latencia_end_to_end_ms": 354.66
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-43-00_png.rf.8885e559c6e34337c9e2c45620778a75.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.85,
-      "latencia_end_to_end_ms": 7.86
+      "latencia_model_only_ms": 353.85,
+      "latencia_end_to_end_ms": 355.32
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-43-51_png.rf.fb15465d973e5a1e81906ec6495ebe1a.jpg",
@@ -32332,8 +32332,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.93,
-      "latencia_end_to_end_ms": 9.21
+      "latencia_model_only_ms": 350.79,
+      "latencia_end_to_end_ms": 352.33
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-44-23_png.rf.0ef5dbde7ae2f3b85348bfa9c408c5ec.jpg",
@@ -32348,8 +32348,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.77,
-      "latencia_end_to_end_ms": 8.83
+      "latencia_model_only_ms": 359.09,
+      "latencia_end_to_end_ms": 360.66
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-45-02_png.rf.a6e914feaa1675b1a74e7623e1a2a465.jpg",
@@ -32382,8 +32382,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.96,
-      "latencia_end_to_end_ms": 8.81
+      "latencia_model_only_ms": 385.1,
+      "latencia_end_to_end_ms": 386.4
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-46-59_png.rf.4f4c7fff04a11e89e70bbfe34cafde8e.jpg",
@@ -32407,8 +32407,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.82,
-      "latencia_end_to_end_ms": 8.82
+      "latencia_model_only_ms": 383.31,
+      "latencia_end_to_end_ms": 384.98
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-47-22_png.rf.3c5840539a152fc4c704ea2213da6e17.jpg",
@@ -32432,8 +32432,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.04,
-      "latencia_end_to_end_ms": 8.05
+      "latencia_model_only_ms": 354.53,
+      "latencia_end_to_end_ms": 356.2
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-47-59_png.rf.26475dbd457844ece3ecd7c3ab6e5864.jpg",
@@ -32457,14 +32457,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.54,
-      "latencia_end_to_end_ms": 8.46
+      "latencia_model_only_ms": 367.72,
+      "latencia_end_to_end_ms": 369.08
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-48-40_png.rf.890b0dff1c4f4eb1310382e20c45714d.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.32,
-      "latencia_end_to_end_ms": 8.46
+      "latencia_model_only_ms": 376.9,
+      "latencia_end_to_end_ms": 378.76
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-51-17_png.rf.a68da063241b2340e1a092f1e229f174.jpg",
@@ -32524,8 +32524,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.25,
-      "latencia_end_to_end_ms": 8.14
+      "latencia_model_only_ms": 355.75,
+      "latencia_end_to_end_ms": 361.14
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-52-35_png.rf.79ce79cd3d62cce2f97a5192ffbdd2a1.jpg",
@@ -32594,8 +32594,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.41,
-      "latencia_end_to_end_ms": 8.32
+      "latencia_model_only_ms": 370.72,
+      "latencia_end_to_end_ms": 372.91
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-08-56-55_png.rf.89a6603d8a446341a351b9389d04e1f7.jpg",
@@ -32628,8 +32628,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.49,
-      "latencia_end_to_end_ms": 8.47
+      "latencia_model_only_ms": 410.58,
+      "latencia_end_to_end_ms": 413.65
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-01-58_png.rf.863174222e2eee1d462ef24f8fc13247.jpg",
@@ -32689,8 +32689,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.43,
-      "latencia_end_to_end_ms": 8.24
+      "latencia_model_only_ms": 365.12,
+      "latencia_end_to_end_ms": 366.64
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-03-59_png.rf.a2dd099bf722755308eabad9bc504d35.jpg",
@@ -32723,20 +32723,20 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 8.26,
-      "latencia_end_to_end_ms": 9.08
+      "latencia_model_only_ms": 356.0,
+      "latencia_end_to_end_ms": 357.43
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-08-47_png.rf.945331e3062dcbf9e62f9be79c4bc95c.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.89,
-      "latencia_end_to_end_ms": 7.91
+      "latencia_model_only_ms": 386.01,
+      "latencia_end_to_end_ms": 387.29
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-12-58_png.rf.3824ef8a0a379c31515e2bc5cfee2654.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.81,
-      "latencia_end_to_end_ms": 7.62
+      "latencia_model_only_ms": 423.59,
+      "latencia_end_to_end_ms": 425.33
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-13-20_png.rf.686e2ec74fb8cd3ee17a6fe8a87a7660.jpg",
@@ -32778,8 +32778,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.73,
-      "latencia_end_to_end_ms": 8.56
+      "latencia_model_only_ms": 375.92,
+      "latencia_end_to_end_ms": 377.26
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-15-42_png.rf.822b5697ceef8edadb37ab5b29e76cc0.jpg",
@@ -32803,8 +32803,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.59,
-      "latencia_end_to_end_ms": 8.43
+      "latencia_model_only_ms": 375.77,
+      "latencia_end_to_end_ms": 376.75
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-16-39_png.rf.0aba9aaafb28d5eab245ac470b0bf8f4.jpg",
@@ -32819,8 +32819,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.27,
-      "latencia_end_to_end_ms": 8.09
+      "latencia_model_only_ms": 367.1,
+      "latencia_end_to_end_ms": 368.37
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-19-01_png.rf.06c24b09daafa5dd03c2da44597d74ff.jpg",
@@ -32979,8 +32979,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.69,
-      "latencia_end_to_end_ms": 8.51
+      "latencia_model_only_ms": 360.8,
+      "latencia_end_to_end_ms": 363.0
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-21-09_png.rf.e864a3ef3ceeb1cc81c6d1b1d24011ff.jpg",
@@ -32995,8 +32995,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.51,
-      "latencia_end_to_end_ms": 8.37
+      "latencia_model_only_ms": 384.58,
+      "latencia_end_to_end_ms": 386.54
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-22-40_png.rf.10fa2463c81492e78d812744e4c066bb.jpg",
@@ -33137,14 +33137,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.08,
-      "latencia_end_to_end_ms": 8.0
+      "latencia_model_only_ms": 408.18,
+      "latencia_end_to_end_ms": 411.72
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-23-09_png.rf.ee863471f0ebdc27f576982d0917b249.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.92,
-      "latencia_end_to_end_ms": 8.07
+      "latencia_model_only_ms": 367.96,
+      "latencia_end_to_end_ms": 370.05
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-23-36_png.rf.07652c5944bc5912b56602dbb2d0e39b.jpg",
@@ -33186,14 +33186,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.16,
-      "latencia_end_to_end_ms": 8.13
+      "latencia_model_only_ms": 368.85,
+      "latencia_end_to_end_ms": 371.05
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-23-59_png.rf.a885b42a7c47f24b1addad0f72416e3a.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 6.68,
-      "latencia_end_to_end_ms": 7.58
+      "latencia_model_only_ms": 390.83,
+      "latencia_end_to_end_ms": 392.2
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-25-37_png.rf.fc97e656f26e14498c0a48948ddfe7c6.jpg",
@@ -33208,8 +33208,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.65,
-      "latencia_end_to_end_ms": 8.77
+      "latencia_model_only_ms": 380.09,
+      "latencia_end_to_end_ms": 381.71
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-26-22_png.rf.b80caa5ecd0c6fa2fc1c53d6b05d8e13.jpg",
@@ -33233,14 +33233,14 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.49,
-      "latencia_end_to_end_ms": 8.5
+      "latencia_model_only_ms": 365.17,
+      "latencia_end_to_end_ms": 367.62
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-09-40-14_png.rf.332ed51174b001b17bc07ffbfa1dc63d.jpg",
       "deteccoes": [],
-      "latencia_model_only_ms": 7.01,
-      "latencia_end_to_end_ms": 7.94
+      "latencia_model_only_ms": 370.66,
+      "latencia_end_to_end_ms": 372.53
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-18-59-04_png.rf.f0563356e18a425c58bfde162e76e1e3.jpg",
@@ -33300,8 +33300,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.47,
-      "latencia_end_to_end_ms": 8.38
+      "latencia_model_only_ms": 378.58,
+      "latencia_end_to_end_ms": 380.65
     },
     {
       "image_id": "Captura-de-tela-de-2026-06-06-19-07-59_png.rf.8a9431df00fcc77a0f3d65149494d3b3.jpg",
@@ -33379,8 +33379,8 @@
           ]
         }
       ],
-      "latencia_model_only_ms": 7.36,
-      "latencia_end_to_end_ms": 8.25
+      "latencia_model_only_ms": 364.83,
+      "latencia_end_to_end_ms": 366.02
     }
   ]
 }

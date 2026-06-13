@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": false, \"descricao_breve\": \"Nenhum lixo ou resíduo visível na imagem.\", \"confianca\": 1.0}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1162.95,
+  "latencia_end_to_end_ms": 1193.79,
   "image_id": "Captura-de-tela-2026-06-06-102503_png.rf.7158d95d368e3470f47dab68ddb288c8.jpg"
 }

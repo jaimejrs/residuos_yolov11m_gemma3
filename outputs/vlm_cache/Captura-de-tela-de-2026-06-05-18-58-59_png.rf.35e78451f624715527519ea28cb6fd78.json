@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de resíduos no chão, próximos à vegetação e à construção.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1196.12,
+  "latencia_end_to_end_ms": 1294.8,
   "image_id": "Captura-de-tela-de-2026-06-05-18-58-59_png.rf.35e78451f624715527519ea28cb6fd78.jpg"
 }

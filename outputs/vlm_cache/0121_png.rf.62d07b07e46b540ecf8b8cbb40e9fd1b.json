@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos diversos (entulho, plástico, embalagens) acumulados na calçada e próximo à via pública.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1364.78,
+  "latencia_end_to_end_ms": 1264.76,
   "image_id": "0121_png.rf.62d07b07e46b540ecf8b8cbb40e9fd1b.jpg"
 }

@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Garrafa de plastico amarelada na via.\", \"confianca\": 0.85}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1131.38,
+  "latencia_end_to_end_ms": 1281.91,
   "image_id": "Captura-de-tela-2026-06-06-104432_png.rf.d5a9069cc191b7092423348823d0169f.jpg"
 }

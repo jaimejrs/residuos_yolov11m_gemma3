@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de resíduos e entulho descartados na calçada e via pública.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1235.84,
+  "latencia_end_to_end_ms": 1204.97,
   "image_id": "0224_png.rf.fbcd26894116b1c45a469a0af59a952d.jpg"
 }

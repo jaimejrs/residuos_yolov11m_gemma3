@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Grande quantidade de lixo acumulado na calçada e área verde.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1201.34,
+  "latencia_end_to_end_ms": 1303.91,
   "image_id": "0039_png.rf.8cce46fbf06e719350b27a3968546660.jpg"
 }

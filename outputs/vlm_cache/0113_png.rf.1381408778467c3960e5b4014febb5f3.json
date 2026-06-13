@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Vários sacos de lixo e outros resíduos descartados na grama ao lado da via.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1290.23,
+  "latencia_end_to_end_ms": 1182.18,
   "image_id": "0113_png.rf.1381408778467c3960e5b4014febb5f3.jpg"
 }

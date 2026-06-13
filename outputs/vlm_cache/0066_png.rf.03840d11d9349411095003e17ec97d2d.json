@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Lixo acumulado na base do poste próximo à faixa de pedestres.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1165.46,
+  "latencia_end_to_end_ms": 1237.1,
   "image_id": "0066_png.rf.03840d11d9349411095003e17ec97d2d.jpg"
 }

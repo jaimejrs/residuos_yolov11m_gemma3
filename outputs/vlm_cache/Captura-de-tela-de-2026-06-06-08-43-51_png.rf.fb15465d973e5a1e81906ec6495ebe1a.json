@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Presença de embalagem plástica branca no canto inferior direito da imagem.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1194.11,
+  "latencia_end_to_end_ms": 1217.94,
   "image_id": "Captura-de-tela-de-2026-06-06-08-43-51_png.rf.fb15465d973e5a1e81906ec6495ebe1a.jpg"
 }

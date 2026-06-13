@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Há um objeto escuro próximo à parede e ao chão que pode ser lixo.\", \"confianca\": 0.6}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1202.48,
+  "latencia_end_to_end_ms": 1256.62,
   "image_id": "Captura-de-tela-de-2026-06-04-22-50-49_png.rf.639f67cab267d610dc62099f44b2aa58.jpg"
 }

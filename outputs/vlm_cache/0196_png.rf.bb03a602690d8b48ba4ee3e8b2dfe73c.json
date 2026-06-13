@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acúmulo de galhos, vegetação e resíduos diversos na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1251.44,
+  "latencia_end_to_end_ms": 1157.62,
   "image_id": "0196_png.rf.bb03a602690d8b48ba4ee3e8b2dfe73c.jpg"
 }

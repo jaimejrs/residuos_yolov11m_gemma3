@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Garrafas plasticas e embalagens descartadas na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1179.15,
+  "latencia_end_to_end_ms": 1160.64,
   "image_id": "0250_png.rf.c2504ba69a7aec436dfe64cde27e4fbb.jpg"
 }

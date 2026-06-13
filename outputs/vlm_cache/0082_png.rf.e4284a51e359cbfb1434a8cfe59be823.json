@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Acumulo de residuos diversos (embalagens, plasticos, papelao) na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1269.38,
+  "latencia_end_to_end_ms": 1217.83,
   "image_id": "0082_png.rf.e4284a51e359cbfb1434a8cfe59be823.jpg"
 }

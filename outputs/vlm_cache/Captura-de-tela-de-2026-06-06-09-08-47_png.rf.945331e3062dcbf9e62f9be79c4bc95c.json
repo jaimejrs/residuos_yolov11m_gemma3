@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Eletrodomésticos (geladeiras e possivelmente máquinas de lavar) descartados na calçada.\", \"confianca\": 0.9}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1335.75,
+  "latencia_end_to_end_ms": 1232.53,
   "image_id": "Captura-de-tela-de-2026-06-06-09-08-47_png.rf.945331e3062dcbf9e62f9be79c4bc95c.jpg"
 }

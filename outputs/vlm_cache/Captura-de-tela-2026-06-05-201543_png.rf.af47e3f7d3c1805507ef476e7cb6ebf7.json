@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Há um objeto plástico e alguns resíduos próximos à parede da casa.\", \"confianca\": 0.8}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1167.71,
+  "latencia_end_to_end_ms": 1208.91,
   "image_id": "Captura-de-tela-2026-06-05-201543_png.rf.af47e3f7d3c1805507ef476e7cb6ebf7.jpg"
 }

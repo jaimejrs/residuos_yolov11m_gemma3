@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Saco de lixo e outros residuos na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1153.67,
+  "latencia_end_to_end_ms": 1172.35,
   "image_id": "0101_png.rf.2597ba103449bdb41ff2abdc30169620.jpg"
 }

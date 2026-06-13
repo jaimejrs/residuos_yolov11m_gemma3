@@ -1,6 +1,6 @@
 {
   "projeto": "Comparativo YOLOv11m vs Gemma 3 27B — deteccao binaria de residuos em vias",
-  "data_execucao": "2026-06-09 21:42",
+  "data_execucao": "2026-06-13 19:59",
   "hardware": "NVIDIA GeForce RTX 5090",
   "treino": {
     "datasets_positivos": [
@@ -43,10 +43,10 @@
     "tn": 201,
     "fp": 79,
     "fn": 85,
-    "latencia_e2e_media_ms": 8.4,
-    "latencia_model_media_ms": 7.4,
-    "latencia_p95_ms": 8.1,
-    "throughput_img_s": 135.2
+    "latencia_e2e_media_ms": 376.2,
+    "latencia_model_media_ms": 374.2,
+    "latencia_p95_ms": 464.3,
+    "throughput_img_s": 2.7
   },
   "vlm": {
     "modelo": "gemma-3-27b-it",
@@ -73,12 +73,12 @@
     "tn": 235,
     "fp": 45,
     "fn": 1,
-    "latencia_media_ms": 1191.3,
-    "latencia_p95_ms": 1346.9,
-    "throughput_img_s": 0.8394
+    "latencia_media_ms": 1218.9,
+    "latencia_p95_ms": 1303.9,
+    "throughput_img_s": 0.8204
   },
   "comparativo": {
-    "fator_velocidade_yolo_vs_vlm": 141.0,
+    "fator_velocidade_yolo_vs_vlm": 3.0,
     "fator_velocidade_nota": "latencia end-to-end (inclui I/O de imagem em ambos)",
     "diferenca_f1": -0.2198,
     "diferenca_taxa_fp": 0.1214

@@ -7,6 +7,6 @@
   "raw_response": "{\"tem_lixo\": true, \"descricao_breve\": \"Diversos residuos como embalagens plasticas, papeis e um pneu descartados na calçada.\", \"confianca\": 0.95}",
   "prompt_hash": "228d6f98b7f43ab9",
   "config_vlm": "temperature=0, seed=42, json_schema",
-  "latencia_end_to_end_ms": 1297.0,
+  "latencia_end_to_end_ms": 1296.73,
   "image_id": "0050_png.rf.0b3e4a8a3000dec5918f536ecf4479da.jpg"
 }
